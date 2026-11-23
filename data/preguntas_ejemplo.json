@@ -1,0 +1,64 @@
+[
+  {
+    "id": "E1",
+    "pregunta": "Explotó el calefón y rompió la pared del lavadero, pero no hubo fuego. ¿Está cubierto?",
+    "producto": "hogar",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí. La cobertura comprende la explosión de calefones, termotanques, garrafas y demás artefactos domésticos, se haya producido o no incendio a consecuencia de ella.",
+    "clausulas_correctas": [
+      "hogar#Art. 8"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "E2",
+    "pregunta": "Hubo un temblor y se rajaron las paredes de la casa. ¿Está cubierto?",
+    "producto": "hogar",
+    "tipo": "directa",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. Los daños causados por terremoto o temblor están excluidos de todas las coberturas de la póliza.",
+    "clausulas_correctas": [
+      "hogar#Art. 22"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "E3",
+    "pregunta": "Tengo el Plan B y me robaron las cuatro ruedas a la noche. ¿Me las reponen?",
+    "producto": "auto",
+    "tipo": "directa",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. El robo de ruedas está cubierto solo en los Planes C y D; bajo el Plan B no se cubre en ningún caso (Art. 16 y Art. 8).",
+    "clausulas_correctas": [
+      "auto#Art. 16",
+      "auto#Art. 8"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "E4",
+    "pregunta": "Tengo el Plan C, el auto se quedó en la ruta y necesito que lo remolquen 200 km hasta mi taller. ¿Está incluido?",
+    "producto": "auto",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí. Los Planes B, C y D incluyen remolque hasta 300 km por evento, con un máximo de 4 eventos por vigencia anual; hay que pedirlo a la central de asistencia, porque los remolques contratados por cuenta propia sin autorización no se reintegran (Art. 33).",
+    "clausulas_correctas": [
+      "auto#Art. 33"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "E5",
+    "pregunta": "Si me muero de una enfermedad durante un viaje por Europa, ¿el seguro cubre?",
+    "producto": "vida",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí. La cobertura principal ampara el fallecimiento ocurrido en cualquier lugar del mundo, durante las 24 horas del día, sea por enfermedad o por accidente, siempre que no se esté dentro de la carencia de 90 días para la muerte por enfermedad ni en un riesgo excluido.",
+    "clausulas_correctas": [
+      "vida#Art. 7",
+      "vida#Art. 8"
+    ],
+    "debe_abstenerse": false
+  }
+]

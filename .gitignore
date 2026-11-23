@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+.chroma/
+.cache/
+.taller/
+resultados/
+__pycache__/
+*.pyc
+.pytest_cache/
+mi-asistente.backup-*/
+.DS_Store

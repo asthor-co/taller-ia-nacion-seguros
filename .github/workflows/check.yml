@@ -1,0 +1,63 @@
+# Chequeo del repo del taller en Windows, macOS y Linux. Sin probar todavia (no se pusheo).
+# No usa la API: check_setup.py --offline y pruebas de las herramientas sin red al modelo.
+name: check
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  check:
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-latest, macos-latest, ubuntu-latest]
+        python: ["3.11", "3.12"]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 40
+    env:
+      ANONYMIZED_TELEMETRY: "False"
+      TOKENIZERS_PARALLELISM: "false"
+      PYTHONIOENCODING: utf-8
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Instalar dependencias
+        run: |
+          python -m venv .venv
+          if [ -f .venv/Scripts/python.exe ]; then PY=.venv/Scripts/python.exe; else PY=.venv/bin/python; fi
+          echo "PY=$PY" >> "$GITHUB_ENV"
+          "$PY" -m pip install --upgrade pip
+          "$PY" -m pip install -r requirements.txt
+
+      - name: Cache del modelo de embeddings
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-e5-small-${{ runner.os }}
+
+      - name: Descargar el modelo de embeddings
+        run: |
+          "$PY" -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('intfloat/multilingual-e5-small')"
+
+      - name: check_setup.py --offline
+        run: |
+          "$PY" check_setup.py --offline
+
+      - name: Herramientas (sin API)
+        run: |
+          "$PY" tools/pdf_a_texto.py
+          "$PY" tools/clausulas.py
+          git diff --ignore-cr-at-eol --stat --exit-code -- data/polizas
+          "$PY" tools/saltar.py --lista
+          "$PY" -m pytest --collect-only -q --import-mode=importlib checkpoints

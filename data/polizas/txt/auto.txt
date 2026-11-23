@@ -1,0 +1,513 @@
+Seguro de Automotores
+Condiciones Generales
+NS-AUT-CG-2026 · Edición 11/2026
+Capítulo I — Disposiciones generales
+
+Art. 1 — Ley de las partes contratantes
+Las partes contratantes se someten a las disposiciones de la Ley 17.418 de Seguros y de la Ley 24.449 de
+Tránsito, sus modificatorias y reglamentaciones, y a las de la presente póliza, que constituye la ley de las
+partes. En caso de discrepancia entre las Condiciones Generales y las Condiciones Particulares o el frente
+de póliza, prevalecerán estas últimas en tanto resulten más favorables al Asegurado. Las normas legales de
+carácter imperativo prevalecerán siempre sobre las estipulaciones contractuales.
+El presente contrato se integra con la solicitud de seguro, el frente de póliza, las Condiciones Generales, las
+Condiciones Particulares, los anexos y los endosos que se emitan durante su vigencia. Ningún agente,
+productor o intermediario se encuentra facultado para modificar sus términos, conceder prórrogas o
+renunciar a derechos de la Aseguradora, salvo autorización expresa y por escrito de esta.
+
+Art. 2 — Definiciones generales
+A los efectos de la presente póliza, los términos siguientes tienen exclusivamente el significado que aquí se
+les asigna:
+a) Asegurado: la persona humana o jurídica designada como tal en el frente de póliza, titular del interés
+asegurable sobre el vehículo.
+b) Vehículo asegurado: el automotor individualizado en el frente de póliza, con su equipamiento de
+serie.
+c) Conductor habilitado: la persona que, al momento del siniestro, conduce el vehículo con autorización
+del Asegurado y es titular de una licencia de conducir vigente, expedida conforme a la Ley 24.449, para
+la clase o categoría que corresponde al vehículo asegurado. La licencia vencida por un lapso superior a
+sesenta (60) días corridos a la fecha del siniestro se equipara, a todos los efectos de esta póliza, a la
+inexistencia de licencia. Los siniestros ocurridos mientras el vehículo es conducido por quien no reviste
+la condición de conductor habilitado carecen de cobertura bajo todos los planes, sin perjuicio de la
+atención de los reclamos de terceros que impongan normas de orden público, supuesto en el cual la
+Aseguradora podrá repetir lo abonado contra el Asegurado.
+
+Art. 3 — Definiciones complementarias
+Se incorporan además las siguientes definiciones:
+
+d) Uso particular: la utilización del vehículo para fines personales, familiares, de esparcimiento o de
+traslado al trabajo, sin contraprestación económica alguna. No constituye uso particular, y no queda
+amparado por esta cobertura, el transporte de pasajeros a cambio de una retribución, cualquiera sea su
+forma, incluidos los traslados concertados mediante plataformas o aplicaciones de movilidad, aun
+cuando se realice en forma ocasional, y aunque no haya pasajeros a bordo si el conductor se encuentra
+conectado a la aplicación en espera de un viaje.
+e) Accesorios: los elementos incorporados al vehículo que no integran su equipamiento de serie, tales
+como equipos de gas natural comprimido (GNC), unidades multimedia, de audio o de navegación,
+llantas especiales, barras portaequipajes y enganches. Los accesorios se encuentran cubiertos
+únicamente si son de fábrica o declarados.
+f) Tercero: toda persona distinta del Asegurado y del conductor. No revisten la calidad de terceros el
+cónyuge o conviviente del Asegurado o del conductor, sus parientes hasta el tercer grado inclusive que
+convivan con cualquiera de ellos, ni los dependientes del Asegurado en ocasión del trabajo.
+
+Art. 4 — Vigencia y pago del premio
+La cobertura comienza y termina a las doce (12) horas de los días indicados en el frente de póliza como
+inicio y fin de la vigencia, que salvo pacto en contrario es anual. El premio es debido desde la celebración
+del contrato y podrá abonarse en un único pago o en las cuotas mensuales que fije el frente de póliza.
+Conforme al artículo 31 de la Ley 17.418, la falta de pago de cualquiera de las cuotas en su vencimiento
+suspende automáticamente la cobertura desde las veinticuatro (24) horas del día del vencimiento impago,
+sin necesidad de interpelación alguna. La cobertura se rehabilita desde las veinticuatro (24) horas del día en
+que la Aseguradora perciba el importe adeudado, sin efecto retroactivo sobre los siniestros ocurridos
+durante el período de suspensión.
+Transcurridos sesenta (60) días corridos de suspensión sin que el Asegurado regularice el pago, la
+Aseguradora podrá rescindir el contrato mediante comunicación fehaciente, conservando el derecho al
+cobro del premio correspondiente al período de cobertura efectivamente corrido.
+
+Art. 5 — Ámbito territorial
+La cobertura rige dentro del territorio de la República Argentina. Se extiende asimismo a los territorios de la
+República Oriental del Uruguay, la República Federativa del Brasil, la República del Paraguay, el Estado
+Plurinacional de Bolivia y la República de Chile, por viajes de duración no superior a sesenta (60) días
+corridos cada uno, únicamente respecto de las coberturas de daños al vehículo y de robo o hurto que
+correspondan al plan contratado.
+La responsabilidad civil frente a terceros en el extranjero no se encuentra comprendida en esta póliza y
+debe contratarse mediante el seguro obligatorio que exijan las normas del país de destino o los acuerdos
+regionales aplicables.
+Los siniestros ocurridos fuera del país se indemnizan en moneda de curso legal en la República Argentina,
+según el costo de reparación o reposición vigente en plaza en el domicilio del Asegurado al momento de la
+liquidación. El servicio de asistencia mecánica previsto en el Art. 33 se presta exclusivamente dentro del
+territorio nacional.
+
+Art. 6 — Suma asegurada y valor del vehículo
+La suma asegurada es la consignada en el frente de póliza y constituye el límite máximo de la
+indemnización por los riesgos que afectan al vehículo. Se entiende por valor del vehículo el precio de venta
+al contado en plaza, al momento del siniestro, de una unidad de igual marca, modelo, año y versión, en
+
+similares condiciones de uso y conservación, determinado conforme a publicaciones especializadas de
+reconocida circulación en el mercado automotor.
+La indemnización no podrá exceder el menor importe entre el valor del vehículo y la suma asegurada. Para
+unidades adquiridas sin uso, durante los primeros noventa (90) días corridos desde su entrega se tomará
+como valor del vehículo el precio que conste en la factura de compra, excluidos los fletes y los gastos de
+patentamiento.
+La suma asegurada podrá ser actualizada a pedido del Asegurado o en cada renovación, con el reajuste de
+premio que corresponda.
+Capítulo II — Planes de cobertura
+
+Art. 7 — Plan A: responsabilidad civil obligatoria
+El Plan A comprende exclusivamente la cobertura de responsabilidad civil hacia terceros transportados y
+no transportados que exige el artículo 68 de la Ley 24.449, en los términos y con los límites establecidos en
+el Capítulo III. Su contratación es condición necesaria para la circulación del vehículo en la vía pública y se
+encuentra incluida en todos los planes de esta póliza.
+El Plan A no cubre daño alguno al vehículo asegurado, cualquiera sea su causa, ni su robo, hurto o
+incendio, ni el servicio de asistencia mecánica previsto en el Art. 33. Los gastos de reparación del vehículo
+asegurado derivados de un accidente quedan, bajo este plan, íntegramente a cargo del Asegurado, sin
+perjuicio de las acciones que este pueda ejercer contra el tercero responsable.
+El certificado de cobertura que emite la Aseguradora acredita la vigencia del seguro obligatorio ante la
+autoridad de control y debe portarse en el vehículo junto con la documentación exigida por la normativa de
+tránsito.
+
+Art. 8 — Plan B: robo, hurto e incendio
+El Plan B comprende la cobertura del Plan A y, además, las siguientes:
+a) Robo o hurto total del vehículo, conforme al Art. 14.
+b) Robo o hurto parcial de piezas y accesorios, conforme al Art. 15, con excepción de las ruedas.
+c) Daños parciales que presente el vehículo una vez recuperado, como consecuencia directa de su robo
+o hurto total, o de la tentativa de cometerlos.
+d) Incendio total y parcial del vehículo, conforme al Art. 17.
+e) Servicio de asistencia mecánica y remolque, conforme al Art. 33.
+El Plan B no cubre el robo de ruedas, el granizo, la rotura de cristales ni la reposición de cerraduras, ni los
+daños al vehículo producidos por accidente de tránsito, choque, vuelco o cualquier otra causa no
+enumerada en los incisos precedentes. Los daños que sufra el vehículo en un accidente ocurrido mientras
+se encontraba en poder de los autores del robo o hurto quedan comprendidos en el inciso c), siempre que
+la denuncia policial del robo o hurto sea anterior al accidente.
+
+Art. 9 — Plan C: terceros completo
+El Plan C comprende la cobertura del Plan B y, además, las siguientes:
+a) Daño total del vehículo por accidente, conforme al Art. 18.
+b) Robo o hurto de ruedas, conforme al Art. 16.
+
+c) Daños por granizo, con el límite establecido en el Art. 19.
+d) Rotura de parabrisas, luneta y cristales laterales, y reposición de cerraduras, conforme al Art. 20.
+El Plan C no cubre los daños parciales al vehículo producidos por accidente, choque, vuelco,
+desbarrancamiento o cualquier otra causa externa, aun cuando el tercero responsable no sea identificado o
+carezca de seguro. Se entiende por daño parcial el que no alcanza el umbral previsto en el Art. 18 para el
+daño total. En consecuencia, si el costo de reparación es inferior a ese umbral, los gastos quedan a cargo
+del Asegurado, salvo que el daño provenga de granizo, de la rotura de cristales o de alguna de las causas
+cubiertas por el Plan B.
+
+Art. 10 — Plan D: todo riesgo con franquicia
+El Plan D comprende la cobertura del Plan C y, además, los daños parciales que sufra el vehículo
+asegurado por accidente, choque, vuelco, desbarrancamiento, actos de vandalismo o cualquier otra causa
+externa, súbita e involuntaria no excluida expresamente en esta póliza.
+Bajo el Plan D, los daños por granizo se indemnizan hasta la suma asegurada, sin el límite previsto en el
+Art. 19 para el Plan C. Cada siniestro de daño parcial, incluido el granizo, queda sujeto a la franquicia
+establecida en el Art. 21, que se deduce del importe de la indemnización.
+La cobertura de daños parciales del Plan D comprende el costo de reparación o reposición de las piezas
+dañadas, la mano de obra y la pintura. Las piezas se repondrán por otras nuevas de idéntica o similar
+calidad; cuando no existan repuestos originales en plaza, la Aseguradora podrá emplear repuestos
+alternativos homologados. No se aplicará deducción alguna por antigüedad de las piezas reemplazadas.
+Capítulo III — Responsabilidad civil
+
+Art. 11 — Alcance de la responsabilidad civil
+La Aseguradora se obliga a mantener indemne al Asegurado y al conductor habilitado por cuanto deban a
+un tercero como consecuencia de daños causados por el vehículo asegurado, en razón de la
+responsabilidad civil en que incurran, conforme a los artículos 109 y siguientes de la Ley 17.418.
+La cobertura comprende la muerte, las lesiones corporales y los daños materiales sufridos por terceros,
+sean transportados o no transportados, siempre que el hecho ocurra durante la vigencia de la póliza y
+dentro del territorio de la República Argentina. Respecto de las personas transportadas, la cobertura se
+limita a quienes viajen en el habitáculo destinado a pasajeros y dentro de la capacidad máxima indicada
+por el fabricante.
+Quedan comprendidos los gastos sanatoriales y de sepelio que la Aseguradora deba abonar en forma
+inmediata en los términos de la normativa de la Superintendencia de Seguros de la Nación aplicable al
+seguro obligatorio, los que se imputan al límite establecido en el Art. 12.
+
+Art. 12 — Límites de responsabilidad civil
+La responsabilidad de la Aseguradora por la cobertura de responsabilidad civil se limita, por
+acontecimiento y cualquiera sea el número de damnificados, a los siguientes importes:
+a) Plan A: $ 160.000.000 por acontecimiento.
+b) Planes B, C y D: $ 400.000.000 por acontecimiento.
+Dentro de los límites indicados, la indemnización por daños materiales a cosas de terceros no podrá
+exceder, en ningún plan, el treinta por ciento (30 %) del límite por acontecimiento.
+
+Se considera un solo acontecimiento el conjunto de daños originados en una misma causa, con
+independencia del número de reclamantes y de la oportunidad en que se formulen los reclamos. Las costas
+judiciales y los intereses a cargo del Asegurado se abonan en la proporción que corresponda entre el límite
+de cobertura y el monto de la condena, conforme al artículo 111 de la Ley 17.418. Los importes que
+excedan los límites establecidos quedan a cargo exclusivo del Asegurado.
+
+Art. 13 — Defensa en juicio
+En caso de demanda judicial contra el Asegurado o el conductor por un hecho cubierto, la Aseguradora
+asumirá o no la dirección del proceso, conforme al artículo 110 de la Ley 17.418. El Asegurado deberá
+comunicar la demanda dentro de los dos (2) días hábiles de notificado y remitir a la Aseguradora la cédula,
+las copias y la documentación recibidas.
+Si la Aseguradora asume la defensa, designará a los profesionales que actuarán en representación del
+Asegurado, quien deberá otorgar los poderes y suministrar la información que se le requiera. Si la
+Aseguradora no asumiera la defensa dentro de los dos (2) días hábiles de recibida la comunicación, el
+Asegurado podrá designar sus propios letrados, debiendo mantenerla informada del curso del proceso.
+El Asegurado no podrá reconocer su responsabilidad ni celebrar transacción alguna sin anuencia de la
+Aseguradora. La Aseguradora podrá, en cualquier momento, acordar transacciones con los damnificados
+dentro del límite de cobertura.
+Capítulo IV — Robo, hurto e incendio
+
+Art. 14 — Robo o hurto total
+Se configura el robo o hurto total cuando el vehículo asegurado es sustraído en los términos de los
+artículos 162 y 164 del Código Penal y no es hallado dentro de los treinta (30) días corridos contados desde
+la denuncia del hecho a la Aseguradora. Hasta el vencimiento de ese plazo no corresponde indemnización
+por robo o hurto total.
+Si el vehículo es hallado antes de que se cumpla el plazo indicado, el Asegurado está obligado a recibirlo, y
+la Aseguradora indemnizará los daños y faltantes que presente en los términos del Art. 15, según el plan
+contratado. Si el vehículo es hallado después de abonada la indemnización, quedará de propiedad de la
+Aseguradora; el Asegurado podrá recuperarlo dentro de los treinta (30) días corridos de notificado del
+hallazgo, reintegrando el importe percibido.
+La indemnización por robo o hurto total equivale al valor del vehículo definido en el Art. 6, con el límite de la
+suma asegurada, y su pago se encuentra sujeto a la transferencia del dominio a favor de la Aseguradora,
+libre de gravámenes, conforme al Art. 32.
+
+Art. 15 — Robo o hurto parcial
+Se entiende por robo o hurto parcial la sustracción de piezas, partes o accesorios del vehículo asegurado
+sin que se configure su robo o hurto total, así como los daños que el autor ocasione al vehículo para
+consumar la sustracción o en su tentativa.
+La cobertura alcanza las piezas y partes que integran el equipamiento de serie del vehículo y los accesorios
+que revistan la condición de cubiertos conforme al Art. 3. La indemnización comprende el costo de
+reposición de los elementos sustraídos por otros de idénticas o similares características, y el de reparación
+de los daños ocasionados, con el límite del valor del vehículo.
+
+La sustracción de ruedas no se indemniza como robo o hurto parcial y se rige exclusivamente por el Art.
+16. La reposición de cristales y cerraduras sustraídos o dañados se rige por el Art. 20.
+
+Art. 16 — Robo o hurto de ruedas
+Bajo los Planes C y D, la Aseguradora indemniza el robo o hurto de las ruedas del vehículo asegurado,
+entendiéndose por tales el conjunto de cubierta y llanta, incluida la rueda de auxilio.
+La cobertura se limita a dos (2) acontecimientos por cada vigencia anual, y en cada acontecimiento a un
+máximo de cinco (5) ruedas. La reposición se efectúa con cubiertas nuevas de la misma medida y de
+calidad similar a la original, y con llantas de iguales características, o del modelo de serie si las sustraídas
+fueran especiales y no revistieran la condición de accesorios cubiertos conforme al Art. 3.
+No se indemniza la sustracción aislada de bulones de seguridad, tazas o embellecedores, ni la de ruedas
+cuando el vehículo hubiera permanecido en la vía pública apoyado sobre soportes, ladrillos u otros
+elementos que denoten que las ruedas habían sido retiradas con anterioridad al hecho denunciado. Bajo el
+Plan B, el robo o hurto de ruedas no se encuentra cubierto en ningún caso.
+
+Art. 17 — Cobertura de incendio
+Bajo los Planes B, C y D, la Aseguradora indemniza los daños que sufra el vehículo asegurado por
+incendio, rayo o explosión, sea que se originen en el propio vehículo o que provengan de una causa
+externa. El incendio se considera total cuando el costo de reparación alcance el umbral previsto en el Art.
+18; en caso contrario, se considera parcial.
+El incendio total se indemniza por el valor del vehículo con el límite de la suma asegurada, previa
+transferencia de los restos a favor de la Aseguradora. El incendio parcial se indemniza por el costo de
+reparación de los daños, sin aplicación de la franquicia prevista en el Art. 21, aun bajo el Plan D.
+La cobertura comprende el incendio producido a consecuencia de un accidente de tránsito, aun bajo el
+Plan B. No se encuentran cubiertos los daños producidos por la sola acción del calor sin llama ni los daños
+eléctricos o electrónicos que no deriven en incendio.
+Capítulo V — Daños al vehículo
+
+Art. 18 — Daño total y daño parcial
+Se configura el daño total cuando el costo de reparación del vehículo asegurado, calculado a valores de
+contado en plaza e incluidos repuestos, mano de obra e impuestos, sea igual o superior al ochenta por
+ciento (80 %) del valor del vehículo al momento del siniestro, determinado conforme al Art. 6.
+Todo daño cuyo costo de reparación sea inferior a dicho porcentaje constituye daño parcial, cualquiera sea
+su magnitud. A los fines del cálculo no se computa el valor de los restos ni el de los accesorios no
+cubiertos.
+El daño total por accidente se encuentra cubierto bajo los Planes C y D, y se indemniza por el valor del
+vehículo con el límite de la suma asegurada, sin aplicación de franquicia. El pago se encuentra sujeto a la
+transferencia de los restos a favor de la Aseguradora, libres de gravámenes y de deudas por patentes e
+infracciones, conforme al Art. 32. El daño parcial por accidente solo se encuentra cubierto bajo el Plan D.
+
+Art. 19 — Cobertura de granizo
+Los daños que sufra el vehículo asegurado a consecuencia de granizo se encuentran cubiertos únicamente
+bajo los Planes C y D. Bajo los Planes A y B, el granizo no se encuentra cubierto en ningún caso, cualquiera
+
+sea la magnitud del daño.
+Bajo el Plan C, la indemnización por granizo no podrá exceder la suma de $ 4.000.000 por vigencia anual,
+cualquiera sea el número de eventos, y no se aplica franquicia. Agotado dicho límite, los daños por granizo
+ocurridos durante el resto de la vigencia quedan a cargo del Asegurado. El límite rige aun cuando el daño
+por granizo alcance el umbral de daño total previsto en el Art. 18.
+Bajo el Plan D, la indemnización por granizo alcanza el costo de reparación sin otro límite que la suma
+asegurada, y se encuentra sujeta en cada evento a la franquicia del Art. 21.
+Se considera un solo evento el conjunto de daños producidos por una misma tormenta de granizo dentro
+de un período de setenta y dos (72) horas.
+
+Art. 20 — Cristales y cerraduras
+Bajo los Planes C y D, la Aseguradora indemniza la rotura de parabrisas, luneta y cristales laterales del
+vehículo asegurado, por cualquier causa no excluida, sin aplicación de franquicia. La cobertura se limita a
+una (1) reposición de parabrisas, una (1) de luneta y dos (2) de cristales laterales por vigencia anual. No
+comprende espejos, faros, ópticas, techos de cristal, solares o panorámicos, ni las láminas de control solar
+o de seguridad adheridas a los cristales.
+Bajo los mismos planes, la Aseguradora indemniza la reposición de las cerraduras del vehículo y de sus
+llaves o comandos a distancia cuando hayan sido dañados o sustraídos en ocasión de un robo, hurto o su
+tentativa, denunciados ante la autoridad policial, hasta la suma de $ 600.000 por acontecimiento. La
+pérdida o extravío de llaves no se encuentra cubierta.
+
+Art. 21 — Franquicia del Plan D
+Bajo el Plan D, cada siniestro de daño parcial, sea por accidente, granizo, vandalismo o cualquier otra
+causa cubierta, queda sujeto a una franquicia fija de $ 850.000. La franquicia se deduce del importe de la
+indemnización que corresponda abonar; si el costo de reparación fuera igual o inferior a la franquicia, no
+corresponderá indemnización alguna.
+La franquicia no se aplica al daño total, al robo o hurto total o parcial, al robo de ruedas, al incendio, a la
+rotura de cristales ni a la reposición de cerraduras.
+Cuando el siniestro de daño parcial obedezca a la exclusiva responsabilidad de un tercero identificado y la
+Aseguradora obtenga el recupero íntegro de lo abonado, el importe de la franquicia será reintegrado al
+Asegurado dentro de los treinta (30) días corridos de percibido el recupero.
+El Asegurado no podrá contratar otro seguro que cubra el importe de la franquicia, bajo pena de perder el
+derecho a la indemnización por los siniestros de daño parcial ocurridos mientras subsista esa situación.
+Capítulo VI — Exclusiones
+
+Art. 22 — Exclusiones generales
+Además de las exclusiones previstas para cada cobertura, la Aseguradora no indemnizará, bajo ningún
+plan, los siniestros que se produzcan en las siguientes circunstancias:
+a) Cuando el siniestro sea provocado por el Asegurado o el conductor con dolo o culpa grave,
+conforme a los artículos 70 y 114 de la Ley 17.418.
+b) Cuando el conductor se encuentre bajo la influencia de alcohol en una concentración superior a la
+permitida por la Ley 24.449 y sus normas complementarias, o de estupefacientes o medicamentos que
+
+disminuyan su aptitud para conducir, o se niegue a someterse a los controles que disponga la
+autoridad.
+c) Cuando el vehículo participe en competencias, pruebas de velocidad o destreza, picadas o
+exhibiciones, oficiales o no.
+d) Por hechos de guerra, guerrilla, terrorismo, rebelión, sedición o motín, o por secuestro, confiscación
+o requisa dispuestos por autoridad.
+e) Por terremoto, maremoto, erupción volcánica, o por la acción de la energía nuclear o radiactiva.
+f) Cuando el vehículo sea transportado por vía marítima, fluvial, aérea o ferroviaria.
+g) Cuando el vehículo transporte personas o carga en exceso de la capacidad o del peso autorizados
+por el fabricante o por la normativa vigente.
+
+Art. 23 — Exclusiones de responsabilidad civil
+La cobertura de responsabilidad civil no comprende:
+a) Los daños a cosas de propiedad del Asegurado o del conductor, o que se encuentren bajo su
+custodia o guarda, o que sean transportadas en el vehículo.
+b) Las obligaciones asumidas por el Asegurado en virtud de convenios o contratos, en cuanto excedan
+la responsabilidad que le correspondería legalmente en ausencia de ellos.
+c) Las multas y sanciones administrativas o penales, y las indemnizaciones de carácter punitivo.
+d) Los daños causados durante operaciones de carga o descarga, o por la carga que sobresalga de los
+límites del vehículo en infracción a la normativa de tránsito.
+e) Los daños causados mientras el vehículo remolque a otro, salvo el remolque ocasional y gratuito de
+un vehículo accidentado o averiado con elementos reglamentarios.
+f) Los daños sufridos por personas transportadas fuera del habitáculo destinado a pasajeros, como
+cajas de carga, estribos o techos.
+g) Los daños producidos por contaminación del ambiente, salvo que sean consecuencia directa de un
+accidente de tránsito cubierto.
+h) Los daños causados fuera del territorio de la República Argentina, conforme al Art. 5.
+
+Art. 24 — Exclusiones de robo, hurto e incendio
+Las coberturas de robo, hurto e incendio no comprenden:
+a) La sustracción cometida por familiares del Asegurado que convivan con él, por sus dependientes, o
+con su complicidad o instigación.
+b) La pérdida del vehículo por estafa, defraudación, abuso de confianza o apropiación indebida, incluida
+la falta de restitución por quien lo hubiera recibido en préstamo, locación, depósito o para su venta o
+reparación.
+c) La sustracción del vehículo dejado con las llaves colocadas o en su interior, o con el motor en
+marcha, sin que medie violencia o intimidación sobre las personas.
+d) El incendio causado intencionalmente por el Asegurado o el conductor, o por terceros con su
+complicidad.
+e) Los faltantes cuya preexistencia en el vehículo no pueda acreditarse.
+f) La sustracción de accesorios que no revistan la condición de cubiertos conforme al Art. 3.
+
+La sustracción de los bienes que se encuentren dentro del vehículo se rige por el Art. 26.
+
+Art. 25 — Exclusiones de daños
+Las coberturas de daño total, daño parcial, granizo y cristales no comprenden:
+a) Los daños producidos por desgaste, deterioro paulatino, corrosión, fatiga de materiales, vicio propio
+o fallas mecánicas o eléctricas, salvo que deriven en un accidente cubierto, en cuyo caso se
+indemnizarán los daños consecuentes y no la falla que los originó.
+b) Los daños a neumáticos y llantas, salvo que se produzcan simultáneamente con otros daños
+cubiertos en el mismo accidente.
+c) Los daños al motor por ingreso de agua al circular por calles o caminos anegados, o al cruzar cursos
+de agua.
+d) Los daños producidos por la carga transportada o por animales transportados en el vehículo.
+e) Los daños sufridos al circular fuera de caminos habilitados, o por playas, médanos o dunas.
+f) Los daños causados por roedores, insectos u otros animales que hayan anidado en el vehículo.
+g) La desvalorización del vehículo, la privación de uso, el lucro cesante y cualquier otro perjuicio
+indirecto, aun cuando deriven de un siniestro cubierto.
+
+Art. 26 — Bienes no asegurados en el vehículo
+La presente póliza asegura exclusivamente el vehículo individualizado en el frente de póliza, con su
+equipamiento de serie y los accesorios cubiertos conforme al Art. 3. En consecuencia, bajo ningún plan se
+encuentran cubiertos contra robo, hurto, incendio ni daño de cualquier naturaleza los siguientes bienes que
+se encuentren dentro del vehículo, en su baúl, guantera o portaequipajes:
+a) Objetos personales, prendas de vestir, anteojos, joyas y relojes.
+b) Equipaje, bolsos, mochilas, valijas y su contenido.
+c) Dinero en efectivo, cheques, tarjetas, documentos y valores.
+d) Aparatos electrónicos portátiles, tales como computadoras portátiles o notebooks, teléfonos
+celulares, tablets, cámaras fotográficas, auriculares y dispositivos de navegación removibles.
+e) Herramientas, mercaderías, muestras comerciales y elementos de trabajo.
+f) Cualquier otro bien que no se encuentre fijado de modo permanente al vehículo, entendiéndose por
+tal el integrado a la carrocería, al tablero o a la estructura mediante una instalación cuya remoción
+requiera el uso de herramientas.
+La exclusión rige aun cuando la sustracción o el daño se produzcan con fractura de cerraduras o rotura de
+cristales, o con motivo del robo o hurto total del vehículo.
+Capítulo VII — Cargas del asegurado
+
+Art. 27 — Cargas del asegurado
+Sin perjuicio de las demás cargas previstas en esta póliza y en la Ley 17.418, el Asegurado deberá:
+a) Mantener el vehículo en buen estado de conservación y funcionamiento, y adoptar medidas de
+seguridad razonables para su guarda, incluido el cierre de puertas, ventanillas y baúl al estacionarlo.
+
+b) Comunicar a la Aseguradora, dentro de los diez (10) días corridos de producido, todo cambio en el
+domicilio, en la radicación o en la titularidad del vehículo.
+c) Conservar las llaves y los comandos a distancia, y entregar a la Aseguradora, en caso de robo o
+hurto total, la totalidad de los juegos recibidos al adquirir el vehículo.
+d) Emplear los medios a su alcance para evitar o disminuir el daño y observar las instrucciones de la
+Aseguradora, conforme al artículo 72 de la Ley 17.418.
+e) Facilitar la inspección del vehículo cuando la Aseguradora lo requiera, al inicio de la cobertura o
+durante su vigencia.
+El incumplimiento de estas cargas por culpa o negligencia del Asegurado le hará perder el derecho a la
+indemnización, en los términos del artículo 36 de la Ley 17.418.
+
+Art. 28 — Agravación del riesgo
+El Asegurado debe denunciar a la Aseguradora las circunstancias que agraven el riesgo, antes de que se
+produzcan si dependen de su voluntad, o dentro de los cinco (5) días corridos de conocerlas en caso
+contrario, conforme a los artículos 37 a 41 de la Ley 17.418. Constituyen agravación del riesgo, entre otras:
+a) La modificación del uso declarado en el frente de póliza.
+b) Las modificaciones técnicas que alteren la potencia, la estructura o las condiciones de seguridad del
+vehículo.
+c) La afectación del vehículo a un contrato de locación o arrendamiento a favor de terceros.
+Notificada la agravación, la Aseguradora podrá rescindir el contrato o proponer nuevas condiciones de
+cobertura y premio dentro de los siete (7) días corridos. Si el siniestro ocurriera mientras subsiste una
+agravación no denunciada que, de haber sido conocida, habría impedido la celebración del contrato o
+modificado sus condiciones, la Aseguradora quedará liberada en los términos de los artículos 38 y 39 de la
+Ley 17.418.
+Capítulo VIII — Siniestros
+
+Art. 29 — Denuncia del siniestro
+El Asegurado o, en su caso, el conductor deberá denunciar a la Aseguradora todo siniestro dentro del plazo
+de setenta y dos (72) horas hábiles de ocurrido o de haber tomado conocimiento de él. A los fines del
+cómputo de este plazo no se consideran los sábados, domingos ni feriados nacionales, de modo que el
+plazo equivale a tres (3) días hábiles contados desde la hora del hecho. La denuncia podrá efectuarse en
+cualquier sucursal de la Aseguradora, ante el productor interviniente o por los canales electrónicos
+habilitados, y deberá describir el hecho, su lugar, fecha y hora, e identificar al conductor, a los terceros
+intervinientes y a los testigos, si los hubiera.
+En caso de robo, hurto, su tentativa o incendio intencional, el Asegurado deberá además formular la
+denuncia ante la autoridad policial o judicial competente dentro de las veinticuatro (24) horas de conocido
+el hecho, y entregar copia a la Aseguradora.
+La falta de denuncia en el plazo establecido hará perder al Asegurado el derecho a ser indemnizado, salvo
+que acredite caso fortuito, fuerza mayor o imposibilidad de hecho sin culpa o negligencia, conforme a los
+artículos 46 y 47 de la Ley 17.418.
+
+Art. 30 — Documentación del siniestro
+Dentro de los quince (15) días corridos de efectuada la denuncia, el Asegurado deberá suministrar a la
+Aseguradora la siguiente documentación, sin perjuicio de la información complementaria que esta pueda
+requerir conforme al artículo 46 de la Ley 17.418:
+a) Copia de la licencia de conducir del conductor, vigente al momento del siniestro, y de la cédula de
+identificación del vehículo.
+b) Copia de la denuncia policial o de las actuaciones judiciales, cuando corresponda.
+c) Presupuesto de reparación, en los siniestros de daño parcial.
+d) En caso de robo o hurto total o de daño total: título del automotor, formulario de transferencia con
+firma certificada, certificado de dominio sin gravámenes, constancias de libre deuda de patentes e
+infracciones, la totalidad de las llaves y la constancia de la denuncia de robo ante el registro seccional
+correspondiente.
+El plazo de pronunciamiento previsto en el Art. 32 comienza a correr desde la presentación completa de la
+información y documentación requeridas.
+
+Art. 31 — Inspección y peritaje
+El Asegurado no podrá iniciar la reparación del vehículo sin la previa inspección y autorización de la
+Aseguradora, salvo las reparaciones de urgencia indispensables para trasladarlo o evitar daños mayores.
+La Aseguradora deberá efectuar la inspección dentro de los cinco (5) días hábiles de recibida la denuncia;
+vencido ese plazo sin que la realice, el Asegurado podrá proceder a la reparación, conservando las piezas
+reemplazadas y los comprobantes respectivos.
+La Aseguradora podrá designar un perito para verificar las circunstancias del siniestro, la extensión del
+daño y el valor del vehículo. Si el Asegurado no estuviera de acuerdo con la valuación, podrá designar a su
+costa un perito propio, conforme al artículo 57 de la Ley 17.418; en caso de discrepancia entre ambos, se
+designará de común acuerdo un tercer perito, cuyo dictamen será obligatorio en cuanto a la cuantía del
+daño, quedando las cuestiones de cobertura reservadas a la decisión judicial.
+La intervención de peritos no importa aceptación del siniestro ni renuncia a las defensas de la Aseguradora.
+
+Art. 32 — Liquidación y pago
+La Aseguradora deberá pronunciarse acerca del derecho del Asegurado dentro de los treinta (30) días
+corridos de recibida la información y documentación completa prevista en el Art. 30, conforme al artículo 56
+de la Ley 17.418. La omisión de pronunciarse importa aceptación.
+Aceptado el siniestro, la indemnización se abonará dentro de los quince (15) días corridos de fijado su
+importe o de aceptado el siniestro, lo que ocurra último, conforme al artículo 49 de la Ley 17.418. En los
+siniestros de daño parcial, la Aseguradora podrá optar por abonar la indemnización al Asegurado o al taller
+reparador que este designe, o por reparar o reponer el bien dañado por sí.
+En los casos de robo o hurto total y de daño total, el pago queda sujeto a la previa transferencia del
+dominio del vehículo o de sus restos a favor de la Aseguradora o de quien esta indique.
+Del importe de la indemnización se deducirán la franquicia, cuando corresponda, y las cuotas de premio
+vencidas e impagas.
+
+Capítulo IX — Asistencia mecánica
+
+Art. 33 — Asistencia mecánica y remolque
+Bajo los Planes B, C y D, la Aseguradora prestará, por medio de los prestadores que designe, un servicio
+de asistencia mecánica y remolque del vehículo asegurado en caso de accidente, avería, pinchadura, falta
+de combustible o descarga de batería que le impida circular por sus propios medios, dentro del territorio de
+la República Argentina.
+El remolque se efectúa hasta el taller o domicilio que indique el Asegurado, con un recorrido máximo de
+trescientos (300) kilómetros por evento, contados desde el lugar en que se encuentre el vehículo. El servicio
+se limita a cuatro (4) eventos por vigencia anual, cualquiera sea su causa. Los kilómetros que excedan el
+máximo por evento y los eventos que excedan el máximo anual quedan a cargo del Asegurado, según la
+tarifa del prestador.
+El servicio debe solicitarse a la central de asistencia indicada en el frente de póliza. No se reintegrarán los
+gastos de remolque o auxilio contratados directamente por el Asegurado sin autorización previa de la
+central, salvo imposibilidad acreditada de comunicarse con ella.
+Capítulo X — Disposiciones finales
+
+Art. 34 — Rescisión del contrato
+Cualquiera de las partes podrá rescindir el presente contrato sin expresar causa, conforme al artículo 18 de
+la Ley 17.418. Cuando la rescisión sea dispuesta por la Aseguradora, deberá notificarla en forma fehaciente
+con una anticipación no menor de quince (15) días corridos, y reintegrará la parte del premio
+correspondiente al período no transcurrido, calculada a prorrata.
+Cuando la rescisión sea dispuesta por el Asegurado, producirá efecto desde las veinticuatro (24) horas del
+día en que la Aseguradora reciba la comunicación, y la Aseguradora tendrá derecho al premio devengado
+por el tiempo transcurrido, calculado según la tarifa de corto plazo vigente.
+La transferencia del vehículo a un tercero producirá la rescisión automática del contrato desde la fecha de
+su inscripción registral, salvo que la Aseguradora acepte expresamente la continuidad de la cobertura a
+favor del adquirente. La Aseguradora comunicará la baja del seguro obligatorio a la autoridad de control
+cuando así lo exija la normativa aplicable.
+
+Art. 35 — Prescripción de las acciones
+Las acciones fundadas en el presente contrato prescriben en el plazo de un (1) año, computado desde que
+la correspondiente obligación es exigible, conforme al artículo 58 de la Ley 17.418. Los actos del
+procedimiento establecido por la ley o por esta póliza para la liquidación del daño interrumpen la
+prescripción para el cobro del premio y de la indemnización.
+En el seguro de responsabilidad civil, el plazo de prescripción de la acción del Asegurado contra la
+Aseguradora corre desde que el tercero damnificado formule su reclamo, judicial o extrajudicial, al
+Asegurado.
+Para las acciones derivadas de un siniestro de robo o hurto total, el plazo se computa desde el vencimiento
+del período de treinta (30) días corridos establecido en el Art. 14.
+
+Art. 36 — Jurisdicción y domicilio
+Toda controversia judicial relativa al presente contrato será sometida a la jurisdicción de los tribunales
+ordinarios competentes del domicilio del Asegurado, sin perjuicio del derecho de este a optar por los
+tribunales del lugar de emisión de la póliza o del lugar del siniestro. La Aseguradora no podrá prorrogar la
+jurisdicción en perjuicio del Asegurado.
+Para todos los efectos del contrato, las partes constituyen domicilio en los indicados en el frente de póliza,
+donde serán válidas las notificaciones que se cursen. Todo cambio de domicilio deberá comunicarse
+conforme al Art. 27.
+Sin perjuicio de la vía judicial, el Asegurado podrá formular sus reclamos ante el servicio de atención al
+asegurado de la Aseguradora, que deberá responder dentro de los treinta (30) días corridos, y ante la
+Superintendencia de Seguros de la Nación, en su carácter de autoridad de control de la actividad
+aseguradora.

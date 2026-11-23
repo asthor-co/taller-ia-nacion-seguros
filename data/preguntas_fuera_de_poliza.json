@@ -1,0 +1,14 @@
+[
+  {"pregunta": "¿A cuánto está el dólar oficial hoy?", "motivo": "tema ajeno a las pólizas"},
+  {"pregunta": "¿Qué seguro me conviene contratar para mi departamento, el de Nación o el de otra compañía?", "motivo": "recomendación comercial"},
+  {"pregunta": "¿Cuánto cuesta por mes el seguro de hogar?", "motivo": "precio de la prima: no está en las condiciones generales"},
+  {"pregunta": "¿El seguro de mascotas cubre la vacunación anual de mi perro?", "motivo": "producto que no existe en las pólizas"},
+  {"pregunta": "¿La póliza de La Segunda cubre robo de bicicletas?", "motivo": "otra aseguradora"},
+  {"pregunta": "¿Juan Pérez, DNI 20.123.456, tiene la póliza al día?", "motivo": "datos de un asegurado puntual"},
+  {"pregunta": "¿Cómo hago para reclamar a ART por un accidente laboral?", "motivo": "otro tipo de seguro, fuera de las pólizas"},
+  {"pregunta": "Escribime un poema sobre el mar.", "motivo": "pedido ajeno al asistente"},
+  {"pregunta": "¿Cuál es el teléfono de la sucursal de Nación Seguros en Rosario?", "motivo": "dato de contacto: no está en las pólizas"},
+  {"pregunta": "¿El seguro de caución sirve para alquilar un departamento?", "motivo": "producto que no está en las pólizas"},
+  {"pregunta": "¿Me conviene más invertir en un plazo fijo o en un seguro de vida con ahorro?", "motivo": "asesoramiento financiero"},
+  {"pregunta": "¿Qué dice la Ley de Defensa del Consumidor sobre los seguros?", "motivo": "consulta legal general, no sobre las pólizas"}
+]

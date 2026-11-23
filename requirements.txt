@@ -1,0 +1,9 @@
+# Taller IA Nacion Seguros. Python 3.11 a 3.13.
+# Versiones fijadas: todas las maquinas instalan exactamente lo mismo.
+anthropic==2.12.0
+python-dotenv==1.2.4
+pdfplumber==0.11.11
+chromadb==1.5.9
+sentence-transformers==6.3.0
+pytest==9.2.0
+rich==15.0.0

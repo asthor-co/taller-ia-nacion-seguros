@@ -1,0 +1,29 @@
+[
+  {
+    "id": "M1",
+    "imagen": "data/polizas/escaneada/auto_p3.png",
+    "pregunta": "Te mando una foto de una hoja de mi póliza de auto. Tengo el Plan B: ¿me cubre el granizo?",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. La página fotografiada muestra el Art. 8: el Plan B no cubre el granizo (solo los Planes C y D lo incluyen).",
+    "clausulas_correctas": ["auto#Art. 8"],
+    "nota": "Bonus multimodal: la imagen está torcida y con sombra; el modelo tiene que leerla."
+  },
+  {
+    "id": "M2",
+    "imagen": "data/fotos/filtracion.jpg",
+    "pregunta": "Esta mancha apareció en el techo del baño después de varios meses de humedad. ¿Me lo cubre el seguro de hogar?",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. La definición de daño por agua (Art. 2, inciso e) solo comprende escapes súbitos y accidentales; las filtraciones lentas, la humedad y el moho progresivos no están cubiertos.",
+    "clausulas_correctas": ["hogar#Art. 2"],
+    "nota": "Bonus multimodal: la foto muestra daño progresivo (manchas, moho)."
+  },
+  {
+    "id": "M3",
+    "imagen": "data/fotos/choque.jpg",
+    "pregunta": "Así me quedó el auto después de que me chocaron de atrás. Tengo el Plan C: ¿me cubren el arreglo del paragolpes?",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No por tu póliza: el Plan C cubre el daño total por accidente, no el daño parcial (Art. 9 y Art. 18).",
+    "clausulas_correctas": ["auto#Art. 9", "auto#Art. 18"],
+    "nota": "Bonus multimodal: la foto muestra un daño parcial menor."
+  }
+]
