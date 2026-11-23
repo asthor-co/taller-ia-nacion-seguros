@@ -1,0 +1,739 @@
+[
+  {
+    "id": "B01",
+    "pregunta": "Se me incendió la cocina por un cortocircuito y se quemaron los muebles y la heladera. ¿Me cubre?",
+    "producto": "hogar",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí. La cobertura de incendio ampara los daños por la acción directa del fuego al edificio y al contenido general, incluidos los derivados del calor y el humo, dentro de la suma asegurada y sujeto a la regla proporcional.",
+    "clausulas_correctas": [
+      "hogar#Art. 8"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B02",
+    "pregunta": "Se reventó de golpe el flexible del lavarropas y se inundó el living, arruinando el sillón y el piso de madera. ¿Me cubren?",
+    "producto": "hogar",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí. Es un escape súbito y accidental de agua de una instalación, que encuadra en daño por agua: se cubren el sillón y el piso hasta $ 1.500.000 por acontecimiento, pero no el costo de reemplazar el flexible que originó el escape.",
+    "clausulas_correctas": [
+      "hogar#Art. 9",
+      "hogar#Art. 2"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B03",
+    "pregunta": "Entraron a casa forzando la cerradura de la puerta mientras estábamos de viaje un fin de semana y se llevaron el televisor. ¿Está cubierto?",
+    "producto": "hogar",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí. Es robo con fuerza en las cosas con rastros visibles de violencia en la cerradura; se indemniza hasta la suma asegurada para robo a primer riesgo absoluto, más los daños a la cerradura hasta el 15 % de esa suma.",
+    "clausulas_correctas": [
+      "hogar#Art. 10"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B04",
+    "pregunta": "Un vendaval de 90 km/h voló parte de las chapas del techo y entró agua que mojó la cama. ¿Me cubre?",
+    "producto": "hogar",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí. Los riesgos climáticos cubren vendaval con vientos superiores a 60 km/h; el daño al contenido se cubre porque el viento abrió previamente el techo y el agua ingresó por esa abertura.",
+    "clausulas_correctas": [
+      "hogar#Art. 14"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B05",
+    "pregunta": "En el colectivo me sacaron la billetera del bolsillo sin que me diera cuenta. ¿Lo cubre el seguro de hogar?",
+    "producto": "hogar",
+    "tipo": "directa",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. Fuera del domicilio sólo se cubre el robo con violencia o intimidación (o desde un vehículo cerrado y forzado); el hurto fuera del domicilio está excluido. Además, el dinero en efectivo y las tarjetas no son bienes asegurados.",
+    "clausulas_correctas": [
+      "hogar#Art. 11",
+      "hogar#Art. 25",
+      "hogar#Art. 23"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B06",
+    "pregunta": "Se cayó una maceta de mi balcón y lastimó a un peatón que ahora me reclama una indemnización. ¿Me cubre?",
+    "producto": "hogar",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí. La responsabilidad civil cubre expresamente los daños a terceros por caída de macetas desde la vivienda, hasta $ 5.000.000 por acontecimiento, más costas y gastos de defensa. No debe reconocer responsabilidad ni transar sin anuencia del Asegurador.",
+    "clausulas_correctas": [
+      "hogar#Art. 13"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B07",
+    "pregunta": "Desbordó el arroyo que pasa cerca de casa y entró agua hasta las rodillas. ¿Me cubre el seguro?",
+    "producto": "hogar",
+    "tipo": "directa",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. La inundación y el desborde de ríos o arroyos están excluidos de todas las coberturas, salvo que se haya contratado el adicional Inundación del Anexo I y figure en el frente de póliza.",
+    "clausulas_correctas": [
+      "hogar#Art. 22",
+      "hogar#Art. 38"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B08",
+    "pregunta": "¿Me cubre una filtración lenta del caño del baño que generó humedad en la pared?",
+    "producto": "hogar",
+    "tipo": "exclusion_escondida",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. La definición de daño por agua solo comprende escapes súbitos y accidentales; las filtraciones, pérdidas lentas y la humedad progresiva quedan fuera por definición.",
+    "clausulas_correctas": [
+      "hogar#Art. 2"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B09",
+    "pregunta": "Entraron a robar rompiendo una ventana y se llevaron un anillo de oro que vale $ 2.000.000. No lo había declarado en la póliza. ¿Me cubren el anillo?",
+    "producto": "hogar",
+    "tipo": "exclusion_escondida",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí, pero no por su valor total. Romper una ventana es robo con fuerza en las cosas, y los objetos de valor no declarados e individualizados en el frente de póliza sólo se indemnizan hasta $ 150.000 en conjunto por acontecimiento; el excedente no está cubierto.",
+    "clausulas_correctas": [
+      "hogar#Art. 3"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B10",
+    "pregunta": "Me desapareció la tablet de casa, no hay nada forzado y sospecho de la persona que viene a limpiar. ¿Lo cubre la cobertura de hurto?",
+    "producto": "hogar",
+    "tipo": "exclusion_escondida",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. Por definición sólo es hurto indemnizable el cometido por terceros ajenos al grupo familiar y al personal doméstico; la sustracción atribuida al personal doméstico queda fuera.",
+    "clausulas_correctas": [
+      "hogar#Art. 3",
+      "hogar#Art. 25"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B11",
+    "pregunta": "Trabajo de diseño desde casa y una vez por mes viene un cliente a revisar trabajos. Si el cliente se resbala en la escalera y me demanda, ¿me cubre la responsabilidad civil?",
+    "producto": "hogar",
+    "tipo": "ambigua",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No, con la póliza base. Recibir a un cliente en la vivienda es atención al público según el Art. 38, inciso e), y la responsabilidad civil excluye la derivada de cualquier profesión o actividad lucrativa, aun dentro de la vivienda (Art. 27, inciso c). Sólo quedaría cubierto con el adicional de actividad profesional con atención al público del Art. 38, inciso e), contratado y con la actividad declarada.",
+    "clausulas_correctas": [
+      "hogar#Art. 27",
+      "hogar#Art. 38",
+      "hogar#Art. 13"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B12",
+    "pregunta": "Soy kinesióloga y atiendo dos pacientes por semana en un cuarto de casa. Se incendió ese cuarto y se quemó la camilla. ¿Me la cubren como contenido?",
+    "producto": "hogar",
+    "tipo": "ambigua",
+    "veredicto_esperado": "depende",
+    "respuesta_esperada": "Depende. El contenido general incluye los útiles de trabajo de las actividades admitidas por el Art. 7, que sólo admite actividades profesionales menores sin atención al público; recibir pacientes puede considerarse atención al público, lo que exigiría declararlo como cambio de destino. Si no se declaró, puede operar como agravación del riesgo no denunciada.",
+    "clausulas_correctas": [
+      "hogar#Art. 7",
+      "hogar#Art. 2",
+      "hogar#Art. 29"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B13",
+    "pregunta": "Me rompieron la ventanilla del auto, que estaba cerrado con llave, y se llevaron la notebook que había dejado en el asiento. ¿Me cubre el seguro de hogar?",
+    "producto": "hogar",
+    "tipo": "contradiccion",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí, el de hogar. Cubre el robo de objetos fuera del domicilio, incluidas las computadoras portátiles sustraídas de un vehículo cerrado con llave con rastros visibles de forzamiento, hasta $ 800.000 por acontecimiento, con un máximo de dos acontecimientos por año y denuncia policial dentro de las 48 horas (Hogar, Art. 11). Ojo: el seguro de auto no lo cubre, porque excluye los objetos personales y electrónicos dentro del vehículo (Auto, Art. 26).",
+    "clausulas_correctas": [
+      "hogar#Art. 11",
+      "auto#Art. 26"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B14",
+    "pregunta": "Me asaltaron en la calle a punta de cuchillo y me robaron el celular ($ 900.000) y la notebook ($ 1.100.000). ¿Cuánto me pagan?",
+    "producto": "hogar",
+    "tipo": "limite_monto",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Se cubre como robo con violencia fuera del domicilio, pero el límite es $ 800.000 por acontecimiento: aunque el daño sea de $ 2.000.000, la indemnización máxima es $ 800.000. Requiere denuncia policial dentro de las 48 horas.",
+    "clausulas_correctas": [
+      "hogar#Art. 11",
+      "hogar#Art. 17"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B15",
+    "pregunta": "Una sobretensión quemó el televisor y la reparación cuesta $ 300.000. ¿Cuánto me reintegran?",
+    "producto": "hogar",
+    "tipo": "limite_monto",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Se cubre por daños eléctricos con una franquicia de $ 40.000 por acontecimiento a cargo del asegurado: la indemnización es $ 260.000, dentro del límite de $ 900.000.",
+    "clausulas_correctas": [
+      "hogar#Art. 15",
+      "hogar#Art. 18"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B16",
+    "pregunta": "Tengo el contenido asegurado por $ 10.000.000, pero lo que tengo en casa vale realmente $ 20.000.000. Si un incendio me causa daños por $ 4.000.000, ¿cuánto cobro?",
+    "producto": "hogar",
+    "tipo": "limite_monto",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Hay infraseguro y se aplica la regla proporcional: se indemniza el daño en la proporción suma asegurada / valor asegurable (10.000.000 / 20.000.000), es decir, $ 2.000.000.",
+    "clausulas_correctas": [
+      "hogar#Art. 19"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B17",
+    "pregunta": "Se me rajó el vidrio de una ventana por un golpe y el vidriero me cobra $ 20.000. ¿Me lo reintegran?",
+    "producto": "hogar",
+    "tipo": "limite_monto",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. La cobertura de cristales tiene una franquicia de $ 25.000 por acontecimiento y los daños que no la superan no se indemnizan.",
+    "clausulas_correctas": [
+      "hogar#Art. 18",
+      "hogar#Art. 12"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B18",
+    "pregunta": "Se rompió un caño y se inundó la cocina. ¿Cuánto tiempo tengo para avisarle a la aseguradora?",
+    "producto": "hogar",
+    "tipo": "plazo",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Tres días corridos desde que tomó conocimiento del siniestro. La denuncia debe indicar fecha, hora, lugar, circunstancias, bienes afectados y una estimación de los daños; el incumplimiento del plazo hace perder el derecho a la indemnización salvo caso fortuito, fuerza mayor o imposibilidad de hecho sin culpa o negligencia.",
+    "clausulas_correctas": [
+      "hogar#Art. 30"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B19",
+    "pregunta": "Me robaron en casa el sábado a la noche y recién hice la denuncia policial el miércoles, sin haber tenido ningún impedimento. ¿Me cubren igual?",
+    "producto": "hogar",
+    "tipo": "plazo",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. En caso de robo la denuncia policial debe hacerse dentro de las 48 horas de conocido el hecho; su incumplimiento sin caso fortuito, fuerza mayor o imposibilidad sin culpa hace perder el derecho a la indemnización.",
+    "clausulas_correctas": [
+      "hogar#Art. 30"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B20",
+    "pregunta": "Tengo el Plan A y choqué contra un poste. ¿Me pagan el arreglo de mi auto?",
+    "producto": "auto",
+    "tipo": "directa",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. El Plan A cubre solo la responsabilidad civil hacia terceros; no cubre ningún daño al vehículo asegurado, y los gastos de reparación quedan a cargo del asegurado (Art. 7).",
+    "clausulas_correctas": [
+      "auto#Art. 7"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B21",
+    "pregunta": "Tengo el Plan B y se me prendió fuego el auto por un desperfecto eléctrico. ¿Está cubierto?",
+    "producto": "auto",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí. El Plan B incluye incendio total y parcial, sea de origen interno o externo; solo se excluyen los daños eléctricos que no deriven en incendio. El incendio parcial se paga por costo de reparación y el total por el valor del vehículo con el límite de la suma asegurada (Art. 8 y Art. 17).",
+    "clausulas_correctas": [
+      "auto#Art. 8",
+      "auto#Art. 17"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B22",
+    "pregunta": "Tengo el Plan B y la tormenta de granizo de anoche me dejó el techo y el capó abollados. ¿Me lo cubren?",
+    "producto": "auto",
+    "tipo": "directa",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. El granizo está cubierto únicamente en los Planes C y D; bajo los Planes A y B no se cubre en ningún caso, y el Plan B lo excluye expresamente (Art. 19 y Art. 8).",
+    "clausulas_correctas": [
+      "auto#Art. 19",
+      "auto#Art. 8"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B23",
+    "pregunta": "Tengo el Plan C y se me rajó el parabrisas por una piedra en la ruta. ¿Me lo cambian?",
+    "producto": "auto",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí. El Plan C cubre la rotura de parabrisas por cualquier causa no excluida, sin franquicia, con un límite de una reposición de parabrisas por vigencia anual (Art. 9 y Art. 20).",
+    "clausulas_correctas": [
+      "auto#Art. 9",
+      "auto#Art. 20"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B24",
+    "pregunta": "Tengo el Plan C y choqué. El presupuesto del arreglo es el 40 % del valor del auto. ¿Me lo pagan?",
+    "producto": "auto",
+    "tipo": "directa",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. Un daño inferior al 80 % del valor del vehículo es daño parcial, y el Plan C no cubre daños parciales por accidente; ese daño solo está cubierto en el Plan D (Art. 9 y Art. 18).",
+    "clausulas_correctas": [
+      "auto#Art. 9",
+      "auto#Art. 18"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B25",
+    "pregunta": "Tengo el Plan C y en un choque el auto quedó muy mal: el arreglo cuesta el 85 % de lo que vale. ¿Qué me cubren?",
+    "producto": "auto",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí, como daño total, porque el costo de reparación supera el 80 % del valor del vehículo. Se indemniza el valor del vehículo con el límite de la suma asegurada, sin franquicia, contra la transferencia de los restos a la aseguradora (Art. 18 y Art. 9).",
+    "clausulas_correctas": [
+      "auto#Art. 18",
+      "auto#Art. 9"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B26",
+    "pregunta": "Choqué volviendo de un asado y el control dio alcohol en sangre por encima de lo permitido. Tengo el Plan D, ¿me cubren?",
+    "producto": "auto",
+    "tipo": "directa",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. Bajo ningún plan se indemnizan siniestros ocurridos con el conductor bajo la influencia de alcohol en una concentración superior a la permitida por la Ley 24.449 (Art. 22, inciso b).",
+    "clausulas_correctas": [
+      "auto#Art. 22"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B27",
+    "pregunta": "Manejo con el registro vencido hace tres meses y choqué. Tengo el Plan D, ¿me cubren los daños de mi auto?",
+    "producto": "auto",
+    "tipo": "exclusion_escondida",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. Según la definición de conductor habilitado, una licencia vencida hace más de 60 días equivale a no tener licencia, y los siniestros con un conductor no habilitado no tienen cobertura bajo ningún plan. La exclusión está en las definiciones, no en el capítulo de exclusiones (Art. 2, inciso c).",
+    "clausulas_correctas": [
+      "auto#Art. 2"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B28",
+    "pregunta": "Tengo la póliza como uso particular y los fines de semana hago viajes con una aplicación de movilidad. Choqué mientras esperaba un viaje con la app prendida. ¿Me cubre el Plan D?",
+    "producto": "auto",
+    "tipo": "exclusion_escondida",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. La definición de uso particular deja afuera el transporte de pasajeros remunerado, incluidos los viajes por aplicaciones de movilidad, aunque sea ocasional y aunque no haya pasajeros a bordo si el conductor está conectado a la aplicación esperando un viaje (Art. 3, inciso d).",
+    "clausulas_correctas": [
+      "auto#Art. 3"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B29",
+    "pregunta": "Choqué manejando mi auto y mi hermano, que vive conmigo, iba de acompañante y se lastimó. ¿La responsabilidad civil de la póliza cubre sus lesiones?",
+    "producto": "auto",
+    "tipo": "exclusion_escondida",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. La responsabilidad civil cubre daños a terceros, y la definición de tercero excluye a los parientes hasta el tercer grado que convivan con el asegurado o con el conductor; un hermano conviviente no es tercero (Art. 3, inciso f, y Art. 11).",
+    "clausulas_correctas": [
+      "auto#Art. 3",
+      "auto#Art. 11"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B30",
+    "pregunta": "Compré el auto 0 km y el concesionario le instaló el equipo de GNC antes de entregármelo. En la póliza no figura. Tengo el Plan B y me robaron el tubo y el equipo. ¿Me lo cubren?",
+    "producto": "auto",
+    "tipo": "exclusion_escondida",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. El equipo de GNC es un accesorio y sólo está cubierto si es de fábrica o declarado (Art. 3, inciso e). Instalado por el concesionario después de la fabricación y sin figurar en la póliza, no es un accesorio cubierto, y la sustracción de accesorios no cubiertos está excluida (Art. 24, inciso f). Para cubrirlo hay que declararlo.",
+    "clausulas_correctas": [
+      "auto#Art. 3",
+      "auto#Art. 24",
+      "auto#Art. 15"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B31",
+    "pregunta": "Tengo el Plan C y me forzaron la puerta para robarme la pantalla multimedia que me instaló el concesionario. No la declaré en la póliza. ¿Me la pagan?",
+    "producto": "auto",
+    "tipo": "exclusion_escondida",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. La unidad multimedia es un accesorio y sólo está cubierta si es de fábrica o declarada (Art. 3, inciso e). Instalada por el concesionario y no declarada, su robo queda excluido (Art. 24, inciso f). Los daños a la puerta forzada sí pueden reclamarse por la cobertura de robo parcial que corresponda al plan (Art. 15).",
+    "clausulas_correctas": [
+      "auto#Art. 3",
+      "auto#Art. 15",
+      "auto#Art. 24"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B32",
+    "pregunta": "Me rompieron el vidrio del auto y me robaron la notebook que había dejado en el asiento. Tengo el Plan D, ¿me cubren la notebook?",
+    "producto": "auto",
+    "tipo": "contradiccion",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No, la póliza de Automotores no la cubre: excluye bajo cualquier plan el robo o daño de aparatos electrónicos portátiles, como notebooks, que estén dentro del vehículo, aun con rotura de cristales (Art. 26, inciso d, de Automotores). Si el asegurado tiene también el Seguro de Hogar, la cobertura de robo de objetos fuera del domicilio de esa póliza puede ampararla con sus propios topes y condiciones; hay que citar cada documento por separado.",
+    "clausulas_correctas": [
+      "auto#Art. 26"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B33",
+    "pregunta": "Tengo el Plan C y el granizo me hizo daños por $ 6.000.000. Es el primer reclamo por granizo del año. ¿Cuánto me pagan?",
+    "producto": "auto",
+    "tipo": "limite_monto",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Hasta $ 4.000.000. Bajo el Plan C el granizo tiene un tope de $ 4.000.000 por vigencia anual, sin franquicia; los $ 2.000.000 restantes quedan a cargo del asegurado (Art. 19).",
+    "clausulas_correctas": [
+      "auto#Art. 19"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B34",
+    "pregunta": "Tengo el Plan D y el granizo me hizo daños por $ 2.000.000. ¿Cuánto cobro?",
+    "producto": "auto",
+    "tipo": "limite_monto",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "$ 1.150.000. Bajo el Plan D el granizo se cubre hasta la suma asegurada, pero cada daño parcial tiene una franquicia fija de $ 850.000 que se descuenta de la indemnización (Art. 19 y Art. 21).",
+    "clausulas_correctas": [
+      "auto#Art. 19",
+      "auto#Art. 21"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B35",
+    "pregunta": "Este año ya pedí el remolque cuatro veces. Se me volvió a quedar el auto, ¿me mandan la grúa sin cargo?",
+    "producto": "auto",
+    "tipo": "limite_monto",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No sin cargo. El servicio de remolque se limita a 4 eventos por vigencia anual; los eventos que superan ese máximo quedan a cargo del asegurado según la tarifa del prestador (Art. 33).",
+    "clausulas_correctas": [
+      "auto#Art. 33"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B36",
+    "pregunta": "Choqué un viernes a las 21 y recién puedo hacer la denuncia el lunes a la mañana. No hay feriados en el medio. ¿Estoy en plazo?",
+    "producto": "auto",
+    "tipo": "plazo",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí. El plazo de denuncia es de 72 horas hábiles y no se computan sábados, domingos ni feriados nacionales; equivale a tres días hábiles desde la hora del hecho, así que vence el miércoles a las 21 (Art. 29).",
+    "clausulas_correctas": [
+      "auto#Art. 29"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B37",
+    "pregunta": "Tengo el Plan B, me robaron el auto hace 20 días, lo denuncié enseguida y todavía no apareció. ¿Ya me tienen que pagar?",
+    "producto": "auto",
+    "tipo": "plazo",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Está cubierto, pero todavía no corresponde el pago. El robo total se configura recién cuando el vehículo no aparece dentro de los 30 días corridos desde la denuncia a la aseguradora; después, la aseguradora tiene 30 días desde la documentación completa para pronunciarse y paga dentro de los 15 días de aceptado, contra la transferencia del dominio (Art. 14 y Art. 32).",
+    "clausulas_correctas": [
+      "auto#Art. 14",
+      "auto#Art. 32"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B38",
+    "pregunta": "Si mi papá muere en un accidente de paracaidismo, ¿se paga la doble indemnización?",
+    "producto": "vida",
+    "tipo": "exclusion_escondida",
+    "veredicto_esperado": "depende",
+    "respuesta_esperada": "Depende de si se contrató la cobertura expresa del paracaidismo. Sin ella, se paga sólo la suma asegurada básica: la definición de Accidente excluye los hechos ocurridos mientras el Asegurado practica las actividades del Art. 20, entre ellas el paracaidismo, así que no procede la suma adicional por muerte accidental. El Tomador puede pedir la cobertura expresa pagando una sobreprima que conste en las Condiciones Particulares; en ese caso podría corresponder la doble indemnización, si además está contratada la cobertura adicional del Art. 9.",
+    "clausulas_correctas": [
+      "vida#Art. 2",
+      "vida#Art. 9",
+      "vida#Art. 20",
+      "vida#Art. 7"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B39",
+    "pregunta": "Tengo 66 años y el mes pasado tuve un ACV que me dejó con una incapacidad del 80 %. Tengo contratada la cobertura de invalidez total y permanente, ¿me la pagan?",
+    "producto": "vida",
+    "tipo": "exclusion_escondida",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. Aunque la incapacidad supera el umbral del 66 % exigido por la definición de invalidez total y permanente, esa cobertura cesa a los 65 años y sólo dan derecho a la prestación las invalideces cuyo hecho generador haya ocurrido antes de que el Asegurado cumpla esa edad; el ACV fue a los 66. La cobertura principal de fallecimiento sigue vigente hasta los 75 años.",
+    "clausulas_correctas": [
+      "vida#Art. 5",
+      "vida#Art. 3",
+      "vida#Art. 10"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B40",
+    "pregunta": "La póliza de mi marido tenía cinco años, pero la dejó de pagar, quedó suspendida y la rehabilitó hace seis meses. Ahora se suicidó. ¿Cobramos?",
+    "producto": "vida",
+    "tipo": "exclusion_escondida",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. El suicidio está excluido durante el primer año contado desde el inicio de vigencia o desde la última rehabilitación, y la rehabilitación reinicia expresamente ese plazo de un año. Como la rehabilitación ocurrió hace seis meses, el hecho queda dentro del período de exclusión, sin importar la antigüedad original de la póliza.",
+    "clausulas_correctas": [
+      "vida#Art. 19",
+      "vida#Art. 18"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B41",
+    "pregunta": "En la póliza puse como beneficiarios a 'mis hijos', sin nombres. El hijo de mi esposa, que vive con nosotros desde chico, ¿cobra?",
+    "producto": "vida",
+    "tipo": "ambigua",
+    "veredicto_esperado": "depende",
+    "respuesta_esperada": "Depende de que conviva con el Asegurado al momento del siniestro. La designación genérica 'mis hijos' comprende a los hijos existentes al momento del siniestro y a quienes en ese momento integraran el grupo familiar conviviente del Asegurado en calidad de hijos (Art. 12). El hijo de su esposa queda incluido por esa fórmula si sigue conviviendo con el Asegurado cuando ocurra el fallecimiento; si para entonces ya no convive, no queda comprendido.",
+    "clausulas_correctas": [
+      "vida#Art. 12"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B42",
+    "pregunta": "Tengo una suma asegurada de $ 160.000.000 y me diagnosticaron un cáncer invasivo. ¿Cuánto me adelantan y cuánto queda para mi familia?",
+    "producto": "vida",
+    "tipo": "limite_monto",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "El anticipo es el 25 % de la suma asegurada básica con un máximo de $ 30.000.000. El 25 % de $ 160.000.000 serían $ 40.000.000, pero aplica el tope: se adelantan $ 30.000.000. Ese importe se descuenta de la suma por fallecimiento, que queda en $ 130.000.000. Requisitos: cobertura contratada en el Frente de Póliza, diagnóstico posterior a los 90 días de carencia, sobrevida mínima de 30 días desde el diagnóstico, y el anticipo se paga una sola vez.",
+    "clausulas_correctas": [
+      "vida#Art. 11",
+      "vida#Art. 8"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B43",
+    "pregunta": "Mi papá tenía una suma asegurada de $ 150.000.000 con la cobertura de muerte accidental contratada y murió en un choque. ¿Cuánto cobramos?",
+    "producto": "vida",
+    "tipo": "limite_monto",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "$ 250.000.000. Se paga la suma asegurada básica de $ 150.000.000 más la suma adicional por muerte accidental, equivalente a la suma básica pero con un tope de $ 100.000.000 por Asegurado. El fallecimiento debe ser consecuencia directa y exclusiva del accidente y ocurrir dentro de los 180 días corridos del hecho.",
+    "clausulas_correctas": [
+      "vida#Art. 9",
+      "vida#Art. 7"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B44",
+    "pregunta": "Mi papá falleció hace 25 días y todavía no avisé a la aseguradora; en el medio hubo un fin de semana largo. ¿Estoy a tiempo?",
+    "producto": "vida",
+    "tipo": "plazo",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí. El plazo para denunciar el fallecimiento es de 30 días corridos desde que se tomó conocimiento del hecho, y no se suspende por días inhábiles ni feriados. Quedan 5 días: hay que hacer la denuncia ya, por escrito en una sucursal, por el sitio web o por correo electrónico. Si se vence, se pierde el derecho salvo caso fortuito, fuerza mayor o imposibilidad sin culpa, o que la aseguradora se haya enterado por otra vía dentro del plazo.",
+    "clausulas_correctas": [
+      "vida#Art. 22"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B45",
+    "pregunta": "Mi mamá contrató el seguro hace 60 días y murió de un infarto. ¿Cobramos la suma asegurada?",
+    "producto": "vida",
+    "tipo": "plazo",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. La muerte a consecuencia de enfermedad sólo está cubierta una vez transcurridos 90 días corridos desde el inicio de vigencia. Como falleció a los 60 días, está dentro del período de carencia: no se paga la suma asegurada y la aseguradora restituye la totalidad de las primas percibidas, sin intereses.",
+    "clausulas_correctas": [
+      "vida#Art. 8"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B46",
+    "pregunta": "Mi marido murió de cáncer; la póliza tenía tres años y estaba al día. ¿Está cubierto?",
+    "producto": "vida",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí. La cobertura principal paga la suma asegurada básica por fallecimiento por cualquier causa, incluida la enfermedad, y la carencia de 90 días ya está cumplida. Si se hubiera cobrado un anticipo por enfermedad grave, se descuenta de la suma a pagar.",
+    "clausulas_correctas": [
+      "vida#Art. 7",
+      "vida#Art. 8"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B47",
+    "pregunta": "Mi papá tiene el seguro de vida hace años. La cuota de este mes venció hace 20 días y no se pagó, y él falleció ayer. ¿Pagan igual?",
+    "producto": "vida",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Sí. Hay un período de gracia de 30 días corridos desde el vencimiento de cada cuota, salvo la primera, durante el cual la póliza mantiene plena vigencia. Si el fallecimiento ocurre en ese lapso, se paga la prestación descontando la prima o las cuotas vencidas e impagas.",
+    "clausulas_correctas": [
+      "vida#Art. 17",
+      "vida#Art. 24"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B48",
+    "pregunta": "Mi hermano contrató un seguro de vida hace 10 días, él era el asegurado y yo el beneficiario. Murió en un accidente de tránsito. ¿No hay carencia?",
+    "producto": "vida",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Está cubierto. La carencia de 90 días se aplica sólo a la muerte por enfermedad; la muerte por accidente está cubierta desde las cero horas del día de inicio de vigencia. Si además estaba contratada la cobertura de muerte accidental, corresponde también la suma adicional.",
+    "clausulas_correctas": [
+      "vida#Art. 8",
+      "vida#Art. 7",
+      "vida#Art. 9"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B49",
+    "pregunta": "Nunca designé beneficiarios en mi seguro de vida. Si me muero, ¿quién cobra?",
+    "producto": "vida",
+    "tipo": "directa",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "Cobran los herederos legales del Asegurado, en la proporción que fije la declaratoria de herederos. Los plazos de pronunciamiento y pago se cuentan desde que se presenta ante la aseguradora la resolución judicial que acredita la calidad de herederos.",
+    "clausulas_correctas": [
+      "vida#Art. 14"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B50",
+    "pregunta": "Mi primo murió de un disparo de la policía mientras asaltaba un comercio. ¿Su seguro de vida paga?",
+    "producto": "vida",
+    "tipo": "directa",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. Está excluido el fallecimiento que sea consecuencia de la participación del Asegurado, como autor, coautor o cómplice, en la comisión de un delito doloso, o de su resistencia a la acción legítima de la autoridad. La exclusión alcanza tanto a la cobertura principal como a las adicionales.",
+    "clausulas_correctas": [
+      "vida#Art. 19"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B51",
+    "pregunta": "Tengo seguro de auto y de hogar. Me rompieron la ventanilla del auto, que estaba cerrado con llave, y se llevaron la notebook. ¿Cuál de los dos me cubre?",
+    "producto": null,
+    "tipo": "contradiccion",
+    "veredicto_esperado": "cubre",
+    "respuesta_esperada": "El de hogar. El seguro de auto no cubre objetos personales ni electrónicos dentro del vehículo, aun con rotura de cristales (Auto, Art. 26). El de hogar cubre el robo de la notebook desde un vehículo cerrado con llave con rastros visibles de forzamiento, hasta $ 800.000 por acontecimiento, con un máximo de dos acontecimientos por año y denuncia policial dentro de las 48 horas (Hogar, Art. 11).",
+    "clausulas_correctas": [
+      "hogar#Art. 11",
+      "auto#Art. 26"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B52",
+    "pregunta": "¿Cuánto tiempo tengo para denunciar un siniestro?",
+    "producto": null,
+    "tipo": "plazo",
+    "veredicto_esperado": "depende",
+    "respuesta_esperada": "Depende de la póliza: en hogar, 3 días corridos (Art. 30); en auto, 72 horas hábiles (Art. 29); en vida, 30 días corridos desde que se conoce el fallecimiento (Art. 22). Si es un robo o hurto, además hay que hacer la denuncia policial antes: 48 horas en hogar y 24 horas en auto. Fuera de plazo se pierde el derecho a la indemnización, salvo caso fortuito, fuerza mayor o imposibilidad de hecho sin culpa o negligencia; en vida, también si el Asegurador se enteró del siniestro por otra vía dentro del plazo.",
+    "clausulas_correctas": [
+      "hogar#Art. 30",
+      "auto#Art. 29",
+      "vida#Art. 22"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B53",
+    "pregunta": "Tuve un siniestro y no sé si es del seguro de auto o del de hogar. ¿Cuánto tiempo tengo para avisar en cada uno?",
+    "producto": null,
+    "tipo": "plazo",
+    "veredicto_esperado": "depende",
+    "respuesta_esperada": "En el seguro de hogar, 3 días corridos desde que conoció el siniestro (Art. 30); en el de auto, 72 horas hábiles, sin contar sábados, domingos ni feriados (Art. 29). Si fue un robo o hurto, la denuncia policial tiene un plazo más corto: 48 horas en hogar y 24 horas en auto.",
+    "clausulas_correctas": [
+      "hogar#Art. 30",
+      "auto#Art. 29"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "B54",
+    "pregunta": "¿Cuál es la mejor compañía de seguros de Argentina?",
+    "producto": null,
+    "tipo": "fuera_de_poliza",
+    "veredicto_esperado": "no_sabe",
+    "respuesta_esperada": "Abstención: no está en las pólizas.",
+    "clausulas_correctas": [],
+    "debe_abstenerse": true
+  },
+  {
+    "id": "B55",
+    "pregunta": "¿Nación Seguros tiene un seguro para celulares? ¿Cuánto sale?",
+    "producto": null,
+    "tipo": "fuera_de_poliza",
+    "veredicto_esperado": "no_sabe",
+    "respuesta_esperada": "Abstención: no está en las pólizas.",
+    "clausulas_correctas": [],
+    "debe_abstenerse": true
+  },
+  {
+    "id": "B56",
+    "pregunta": "¿Qué requisitos pide la Superintendencia para ser productor asesor de seguros?",
+    "producto": null,
+    "tipo": "fuera_de_poliza",
+    "veredicto_esperado": "no_sabe",
+    "respuesta_esperada": "Abstención: no está en las pólizas.",
+    "clausulas_correctas": [],
+    "debe_abstenerse": true
+  },
+  {
+    "id": "B57",
+    "pregunta": "Pasame el CBU para pagar la cuota del seguro.",
+    "producto": null,
+    "tipo": "fuera_de_poliza",
+    "veredicto_esperado": "no_sabe",
+    "respuesta_esperada": "Abstención: no está en las pólizas.",
+    "clausulas_correctas": [],
+    "debe_abstenerse": true
+  },
+  {
+    "id": "B58",
+    "pregunta": "¿Cómo se calcula el impuesto a las ganancias sobre una indemnización?",
+    "producto": null,
+    "tipo": "fuera_de_poliza",
+    "veredicto_esperado": "no_sabe",
+    "respuesta_esperada": "Abstención: no está en las pólizas.",
+    "clausulas_correctas": [],
+    "debe_abstenerse": true
+  },
+  {
+    "id": "B59",
+    "pregunta": "¿Qué cubre un seguro de responsabilidad civil profesional para médicos?",
+    "producto": null,
+    "tipo": "fuera_de_poliza",
+    "veredicto_esperado": "no_sabe",
+    "respuesta_esperada": "Abstención: no está en las pólizas.",
+    "clausulas_correctas": [],
+    "debe_abstenerse": true
+  }
+]

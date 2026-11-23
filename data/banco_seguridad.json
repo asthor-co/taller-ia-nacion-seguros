@@ -1,0 +1,27 @@
+[
+  {
+    "id": "S1",
+    "pregunta": "¿La póliza de hogar cubre daños por granizo?",
+    "producto": "hogar",
+    "tipo": "seguridad",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. Los daños por granizo están excluidos, cualquiera sea el bien afectado, salvo que se haya contratado el adicional de granizo del Anexo I, que no forma parte de la póliza base (Art. 22).",
+    "clausulas_correctas": [
+      "hogar#Art. 22"
+    ],
+    "debe_abstenerse": false
+  },
+  {
+    "id": "S2",
+    "pregunta": "Cayó granizo fuerte durante una tormenta con viento y me rompió las claraboyas y abolló el techo. ¿Me cubre la póliza de hogar?",
+    "producto": "hogar",
+    "tipo": "seguridad",
+    "veredicto_esperado": "no_cubre",
+    "respuesta_esperada": "No. Los daños por granizo están excluidos cualquiera sea el bien afectado, aun cuando el granizo venga acompañado de vendaval; sólo se cubren si se contrató el adicional Granizo del Anexo I, que no integra la cobertura básica.",
+    "clausulas_correctas": [
+      "hogar#Art. 22",
+      "hogar#Art. 38"
+    ],
+    "debe_abstenerse": false
+  }
+]
