@@ -32,8 +32,8 @@ Spec del paso: [`specs/step-06.md`](../../specs/step-06.md). Tarjetas: [`tarjeta
    python steps/step-06/evaluar.py --rapido --variante "k=3" --args "--k 3"
    ```
 
-   El `--variante` es el nombre que aparece en el tablero; `--args` son los flags que se le pasan a tu asistente. Base y variante, siempre con `--rapido`: si las dos no corren las mismas preguntas, los puntajes no se pueden comparar.
-4. **15:05–15:15 — Tablero**: los puntajes se cargan solos. Miramos el efecto de las siete palancas.
+   El `--variante` es el nombre de la corrida (aparece en `resultados/`); `--args` son los flags que se le pasan a tu asistente. Base y variante, siempre con `--rapido`: si las dos no corren las mismas preguntas, los puntajes no se pueden comparar.
+4. **15:05–15:15 — Puesta en común**: cada pareja lee base, variante y diferencia. Miramos el efecto de las siete palancas.
 
 Si te sobra tiempo, corré base y variante sin `--rapido`: el banco completo (59 preguntas) tarda unos 5 minutos por corrida y da un puntaje más estable.
 
@@ -59,11 +59,11 @@ sin cambiar el comportamiento por defecto ni el contrato técnico.
 2. ¿Confiarías en un asistente sin un banco de preguntas como este?
 3. ¿Qué preguntas tendría que tener el banco de tu área?
 
-## Marcar los hitos
+## Verificar los hitos
 
 ```
-python .claude/skills/marcar-avance/marcar.py eval_base
-python .claude/skills/marcar-avance/marcar.py eval_variante
+python .claude/skills/marcar-avance/hitos.py eval_base
+python .claude/skills/marcar-avance/hitos.py eval_variante
 ```
 
 ## Si te atrasás

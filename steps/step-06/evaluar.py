@@ -176,7 +176,7 @@ def enviar_tablero(fila: dict) -> str:
     url, token = os.environ.get("TABLERO_URL"), os.environ.get("TABLERO_TOKEN", "")
     pendientes = RAIZ / ".taller" / "pendientes.jsonl"
     if not url:
-        return "sin TABLERO_URL: no se envió"
+        return ""
     cuerpo = json.dumps({"token": token, "tipo": "eval", **fila}, ensure_ascii=False).encode("utf-8")
     try:
         req = urllib.request.Request(url, data=cuerpo, headers={"Content-Type": "application/json"})
@@ -271,8 +271,8 @@ def main() -> None:
     (carpeta / f"{nombre}.json").write_text(
         json.dumps({**fila, "detalle": resultados}, ensure_ascii=False, indent=2), encoding="utf-8")
     consola.print(f"Detalle guardado en resultados/{nombre}.json")
-    if not args.sin_envio:
-        consola.print(enviar_tablero(fila))
+    if not args.sin_envio and (estado := enviar_tablero(fila)):
+        consola.print(estado)
 
 
 if __name__ == "__main__":

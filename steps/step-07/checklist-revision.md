@@ -6,7 +6,7 @@ El código lo escribió Claude Code; la responsabilidad de lo que hace es tuya. 
 
 - [ ] **1. La key está en `.env` y `.env` está ignorado.** `git check-ignore .env` imprime `.env`, y `git status` no muestra el `.env` para subir.
 - [ ] **2. No hay keys ni tokens en el código.** Buscá `sk-ant-`, `api_key=`, `TOKEN=` en `mi-asistente/`. La key se lee del entorno (cargado desde `.env`), nunca se escribe en un archivo `.py`.
-- [ ] **3. No hay keys en logs ni en la salida.** Ningún `print` o log muestra la key, el token del tablero ni el contenido de `.env`, tampoco en mensajes de error.
+- [ ] **3. No hay keys en logs ni en la salida.** Ningún `print` o log muestra la key ni el contenido de `.env`, tampoco en mensajes de error.
 
 ## Datos
 

@@ -19,7 +19,7 @@ Si falta tiempo, agregá `--rapido` a cualquier comando (20 preguntas).
 | A | La regla estricta del checkpoint: ante la menor duda, se abstiene. | `python steps/step-06/evaluar.py --rapido --variante "abstencion-estricta" --args "--abstencion estricta"` |
 | B | Reescribí vos la regla de abstención en `specs/asistente.md` (por ejemplo, con dos ejemplos de zona gris) y pedile a Claude Code que regenere el prompt. | `python steps/step-06/evaluar.py --rapido --variante "abstencion-spec"` |
 
-**Qué medir:** abstención correcta, y cuántas abstenciones indebidas aparecen en la lista de fallas ("se abstuvo en una pregunta que sí tiene respuesta").
+**Qué medir:** abstención correcta, y cuántas abstenciones indebidas aparecen en la lista de fallas ("se abstuvo en una pregunta que sí tiene respuesta"). **Ojo con `--rapido`:** la abstención correcta sale de solo 2 preguntas fuera de póliza y pesa un tercio del puntaje. Si baja a 50 %, es **una sola** pregunta y el puntaje cae 16,7 puntos por eso: mirá también el acierto y la cita correcta antes de sacar conclusiones.
 
 ## Tarjeta 2 — Chunking: por cláusula contra corte fijo
 
@@ -54,7 +54,7 @@ Antes: `python mi-asistente/indexar.py --chunking fijo` (crea el índice con cor
 | A | Haiku. | `python steps/step-06/evaluar.py --rapido --variante "modelo-haiku" --args "--modelo haiku"` |
 | B | Opus (el más grande). | `python steps/step-06/evaluar.py --rapido --variante "modelo-opus" --args "--modelo opus"` |
 
-**Qué medir:** puntaje, costo y minutos de la corrida, comparados con tu base (Sonnet).
+**Qué medir:** puntaje, costo y minutos de la corrida, comparados con tu base (Sonnet). **Ojo con `--rapido`:** la abstención correcta sale de solo 2 preguntas fuera de póliza y pesa un tercio del puntaje. Si baja a 50 %, es **una sola** pregunta y el puntaje cae 16,7 puntos por eso: mirá también el acierto y la cita correcta antes de sacar conclusiones.
 
 ## Tarjeta 5 — Effort: bajo contra alto
 
@@ -97,6 +97,6 @@ Tu base razona (`--razonar si`).
 
 ## Cómo reportar
 
-1. El puntaje se envía solo al tablero (si no hay conexión, queda en `.taller/pendientes.jsonl`).
-2. Marcá el hito: `python .claude/skills/marcar-avance/marcar.py eval_variante`.
+1. Anotá base, variante y diferencia: los vas a leer en la puesta en común de las 15:05. El detalle queda en `resultados/`.
+2. Verificá el hito: `python .claude/skills/marcar-avance/hitos.py eval_variante`.
 3. Para la demo de las 15:50, preparen en una frase: qué palanca probaron, cuánto cambió el puntaje (y el costo) y si el cambio es mayor que la variación entre dos corridas iguales.

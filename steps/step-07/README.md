@@ -58,10 +58,10 @@ Si falta tiempo, este es el bloque que se recorta.
 2. ¿Por qué no alcanza con bloquear la palabra "granizo"?
 3. ¿Qué dato nunca tiene que entrar a un asistente como este?
 
-## Marcar el hito
+## Verificar el hito
 
 ```
-python .claude/skills/marcar-avance/marcar.py step_07
+python .claude/skills/marcar-avance/hitos.py step_07
 ```
 
 Verifica que las preguntas de `data/banco_seguridad.json` respondan con el veredicto esperado.

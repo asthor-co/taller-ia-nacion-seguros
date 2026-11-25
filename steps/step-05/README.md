@@ -42,10 +42,10 @@ python steps/step-05/comparar.py
 2. ¿Por qué el corte fijo de 800 caracteres puede empeorar las citas?
 3. ¿Qué otro material de tu área tendría sentido indexar así?
 
-## Marcar el hito
+## Verificar el hito
 
 ```
-python .claude/skills/marcar-avance/marcar.py step_05
+python .claude/skills/marcar-avance/hitos.py step_05
 ```
 
 Verifica que existe el índice y que una respuesta trae documento y cláusula.
