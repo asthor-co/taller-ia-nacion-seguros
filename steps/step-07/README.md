@@ -48,9 +48,19 @@ En pareja, con [`checklist-revision.md`](checklist-revision.md). El código lo e
 
 ## Canal de voz (15:35–15:50, demo del instructor)
 
-El instructor muestra el mismo asistente atendiendo por voz: un agente de ElevenLabs que responde con Claude desde una base de conocimiento con las tres pólizas limpias, con las reglas del v5, guardrails y tests en la plataforma. Lo pueden probar desde el navegador con la URL o el QR de la pantalla. No se conecta el asistente de cada uno porque exigiría abrir túneles en la red corporativa.
+El instructor muestra el mismo asistente atendiendo por voz: un agente de ElevenLabs que responde con Claude desde una base de conocimiento con las tres pólizas limpias, con las reglas del v5, guardrails y tests en la plataforma. Lo pueden probar desde el navegador con la URL de la pantalla.
 
 Si falta tiempo, este es el bloque que se recorta.
+
+### Opcional: tu propio agente de voz
+
+Tu spec se puede convertir en un agente de voz: el script la toma como prompt (todo menos el contrato técnico), le suma reglas para hablar en voz alta, le carga las pólizas limpias y corre en la plataforma los mismos tests del agente del instructor (granizo, notebook en el auto, inyección y otros).
+
+```
+python tools/publicar_voz.py --nombre "Pareja 3"
+```
+
+Necesita `ELEVENLABS_API_KEY` en el `.env` (la da el instructor) y acceso a elevenlabs.io. Al final te da el link para hablarle desde el navegador. Si un test falla, corregí la spec, no el agente, y volvé a correrlo con el mismo nombre: actualiza el mismo agente.
 
 ## Para discutir con tu pareja
 
