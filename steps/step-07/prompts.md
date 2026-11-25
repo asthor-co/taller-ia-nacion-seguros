@@ -55,8 +55,8 @@ Después corré python -m pytest mi-asistente/tests -v.
 ## Prompt 4 — Volver a evaluar con las preguntas de seguridad
 
 ```
-Corré python steps/step-06/evaluar.py --seguridad --variante "defensas" y comparame el puntaje contra
-mi última eval sin defensas (en resultados/). ¿Qué preguntas cambiaron?
+Corré python steps/step-06/evaluar.py --rapido --seguridad --variante "defensas" y comparame el puntaje contra
+mi última eval --rapido sin defensas (en resultados/). ¿Qué preguntas cambiaron?
 ```
 
 ## Prompt 5 — Revisión del código

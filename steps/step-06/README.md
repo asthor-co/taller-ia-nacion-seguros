@@ -22,20 +22,20 @@ Spec del paso: [`specs/step-06.md`](../../specs/step-06.md). Tarjetas: [`tarjeta
 2. **14:40–14:50 — Puntaje base**:
 
    ```
-   python steps/step-06/evaluar.py
+   python steps/step-06/evaluar.py --rapido
    ```
 
-   Tarda unos minutos. Al final muestra una tabla por tipo de pregunta y la lista de las que fallaron, con el motivo.
+   Evalúa 20 preguntas del banco, siempre las mismas, elegidas por tipo: tarda menos de un minuto. Al final muestra una tabla por tipo de pregunta y la lista de las que fallaron, con el motivo.
 3. **14:50–15:05 — Tu palanca.** Cada pareja recibe una tarjeta; cada integrante prueba una de las dos variantes:
 
    ```
-   python steps/step-06/evaluar.py --variante "k=3" --args "--k 3"
+   python steps/step-06/evaluar.py --rapido --variante "k=3" --args "--k 3"
    ```
 
-   El `--variante` es el nombre que aparece en el tablero; `--args` son los flags que se le pasan a tu asistente.
+   El `--variante` es el nombre que aparece en el tablero; `--args` son los flags que se le pasan a tu asistente. Base y variante, siempre con `--rapido`: si las dos no corren las mismas preguntas, los puntajes no se pueden comparar.
 4. **15:05–15:15 — Tablero**: los puntajes se cargan solos. Miramos el efecto de las siete palancas.
 
-Si falta tiempo, `--rapido` evalúa 20 preguntas estratificadas por tipo.
+Si te sobra tiempo, corré base y variante sin `--rapido`: el banco completo (59 preguntas) tarda unos 5 minutos por corrida y da un puntaje más estable.
 
 ## Las palancas y tu asistente
 

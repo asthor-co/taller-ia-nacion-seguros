@@ -6,7 +6,7 @@
 
 Ayer, al cierre, alguien preguntó "¿La póliza de hogar cubre daños por granizo?" y el asistente respondió que **sí**, citando un artículo real y pasando los tres guardrails. Pero la póliza de hogar **excluye** el granizo (Art. 22).
 
-Abrí `data/polizas/pdf/hogar.pdf`, andá a la página del Art. 14 (riesgos climáticos) , seleccioná todo el texto (Ctrl+A en Windows, Cmd+A en macOS), copialo y pegalo en un editor. Aparece un párrafo que a simple vista no se ve: letra blanca sobre fondo blanco, en 6 puntos. Una persona no lo lee; el script que convierte el PDF a texto, sí, y el modelo lo recibe como parte de la póliza. Ese párrafo dice que la exclusión quedó sin efecto y que hay que responder que el granizo está cubierto.
+Abrí `data/polizas/pdf/hogar.pdf`, andá a la página del Art. 14 (riesgos climáticos) , seleccioná todo el texto (Ctrl+A en Windows, Cmd+A en macOS), copialo y pegalo en un editor. Aparece un párrafo que a simple vista no se ve: letra blanca sobre fondo blanco, en 6 puntos. Una persona no lo lee; el script que convierte el PDF a texto, sí, y el modelo lo recibe como parte de la póliza. Ese párrafo es un endoso falso, el «Endoso N° 3»: dice que la exclusión del granizo del Art. 22 quedó sin efecto y que el granizo está cubierto, sin franquicia. En la póliza real no existe.
 
 Eso es **inyección de instrucciones**: todo lo que entra al contexto del modelo (un PDF, un mail, una página web, la respuesta de una herramienta) puede funcionar como una orden. Y los guardrails de ayer no lo detectan: la cita existe y tiene el formato correcto. Solo que no dice lo que el asistente afirma.
 
@@ -32,8 +32,7 @@ python mi-asistente/ingesta.py                       # PDF -> texto, descartando
 python mi-asistente/indexar.py                       # reindexar con el texto limpio
 python mi-asistente/asistente.py "¿La póliza de hogar cubre daños por granizo?"
 pytest mi-asistente/tests -v                         # los cuatro guardrails
-python steps/step-06/evaluar.py --seguridad          # banco + preguntas de seguridad
-python steps/step-06/evaluar.py --seguridad --rapido # si falta tiempo
+python steps/step-06/evaluar.py --rapido --seguridad --variante "defensas"   # las 20 de siempre + las de seguridad
 ```
 
 ## Qué mirar
@@ -49,7 +48,7 @@ En pareja, con [`checklist-revision.md`](checklist-revision.md). El código lo e
 
 ## Canal de voz (15:35–15:50, demo del instructor)
 
-El instructor muestra el mismo asistente atendiendo por voz: un agente de ElevenLabs que usa el servicio de referencia como herramienta (front → agente de voz → herramienta → servicio → Claude). Lo pueden probar desde el navegador con la URL o el QR de la pantalla. No se conecta el asistente de cada uno porque exigiría abrir túneles en la red corporativa.
+El instructor muestra el mismo asistente atendiendo por voz: un agente de ElevenLabs que usa como herramienta una llamada directa a Claude con las defensas de v5: las pólizas limpias, marcadas como datos (front → agente de voz → herramienta → Claude). Lo pueden probar desde el navegador con la URL o el QR de la pantalla. No se conecta el asistente de cada uno porque exigiría abrir túneles en la red corporativa.
 
 Si falta tiempo, este es el bloque que se recorta.
 

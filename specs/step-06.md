@@ -12,8 +12,8 @@ Medir la calidad del asistente con un banco de preguntas común y comparar, con 
 
 ## Salidas
 
-- Un puntaje base: `python steps/step-06/evaluar.py`.
-- Un puntaje con la variante de tu tarjeta: `python steps/step-06/evaluar.py --variante "<nombre>" --args "<flags>"`.
+- Un puntaje base: `python steps/step-06/evaluar.py --rapido` (20 preguntas, siempre las mismas).
+- Un puntaje con la variante de tu tarjeta: `python steps/step-06/evaluar.py --rapido --variante "<nombre>" --args "<flags>"`.
 - Para cada corrida, `resultados/<alias>-<variante>-<hora>.json` y el envío al tablero.
 
 Métricas:

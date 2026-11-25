@@ -296,7 +296,7 @@ def _resultados_eval(base: bool) -> list[tuple[Path, dict]]:
 def eval_base() -> Resultado:
     hallados = _resultados_eval(base=True)
     if not hallados:
-        return Resultado(False, None, "no hay resultados de la eval base (corre python steps/step-06/evaluar.py)")
+        return Resultado(False, None, "no hay resultados de la eval base (corre python steps/step-06/evaluar.py --rapido)")
     archivo, datos = hallados[-1]
     return Resultado(True, datos.get("puntaje", True), f"{archivo.name}: puntaje {datos.get('puntaje')}")
 
@@ -304,7 +304,7 @@ def eval_base() -> Resultado:
 def eval_variante() -> Resultado:
     hallados = _resultados_eval(base=False)
     if not hallados:
-        return Resultado(False, None, 'no hay resultados con variante (evaluar.py --variante "..." --args "...")')
+        return Resultado(False, None, 'no hay resultados con variante (evaluar.py --rapido --variante "..." --args "...")')
     archivo, datos = hallados[-1]
     return Resultado(True, datos.get("puntaje", True),
                      f"{archivo.name}: variante {datos.get('variante')}, puntaje {datos.get('puntaje')}")
