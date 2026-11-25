@@ -21,7 +21,7 @@ Que el asistente no obedezca instrucciones escondidas en los documentos que lee.
 Además:
 
 5. **Revisión del código generado** con `steps/step-07/checklist-revision.md`, en pareja.
-6. **Canal de voz (opcional, demo del instructor).** Un agente de voz de ElevenLabs que usa como herramienta una llamada directa a Claude con las defensas de v5; los participantes lo prueban desde el navegador. No se conecta el asistente de cada participante (exigiría túneles en la red corporativa).
+6. **Canal de voz (opcional, demo del instructor).** Un agente de voz de ElevenLabs que responde con Claude desde una base de conocimiento con las pólizas limpias, guardrails y tests; los participantes lo prueban desde el navegador. No se conecta el asistente de cada participante (exigiría túneles en la red corporativa).
 
 ## Criterios de terminado
 

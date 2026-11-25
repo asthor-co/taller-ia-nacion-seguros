@@ -48,7 +48,7 @@ En pareja, con [`checklist-revision.md`](checklist-revision.md). El código lo e
 
 ## Canal de voz (15:35–15:50, demo del instructor)
 
-El instructor muestra el mismo asistente atendiendo por voz: un agente de ElevenLabs que usa como herramienta una llamada directa a Claude con las defensas de v5: las pólizas limpias, marcadas como datos (front → agente de voz → herramienta → Claude). Lo pueden probar desde el navegador con la URL o el QR de la pantalla. No se conecta el asistente de cada uno porque exigiría abrir túneles en la red corporativa.
+El instructor muestra el mismo asistente atendiendo por voz: un agente de ElevenLabs que responde con Claude desde una base de conocimiento con las tres pólizas limpias, con las reglas del v5, guardrails y tests en la plataforma. Lo pueden probar desde el navegador con la URL o el QR de la pantalla. No se conecta el asistente de cada uno porque exigiría abrir túneles en la red corporativa.
 
 Si falta tiempo, este es el bloque que se recorta.
 
