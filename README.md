@@ -149,3 +149,7 @@ Si git dice que tus cambios se pisarían, pedile ayuda a Claude Code o al instru
 
 - `.devcontainer/devcontainer.json`: entorno en la nube (GitHub Codespaces) con Python 3.12 y Claude Code, por si una notebook no logra instalar. **Sin probar.**
 - `.github/workflows/check.yml`: corre `check_setup.py --offline` en Windows, macOS y Linux con Python 3.11 y 3.12. **Sin probar.**
+
+## Para seguir después del taller
+
+`extras/flujo-raven/` trae el flujo de desarrollo que usamos en Asthor: un comando de Claude Code por fase (`/understand`, `/spec`, `/plan`, `/implement`, `/commit`, `/close` y el atajo `/fix`). Su README explica cómo instalarlo en tu proyecto, qué adaptar, y cita una alternativa pública, Superpowers.
